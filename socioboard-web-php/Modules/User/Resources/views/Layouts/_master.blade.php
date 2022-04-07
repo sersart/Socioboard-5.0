@@ -23,7 +23,7 @@
 
             gtag('config', 'UA-72806503-3');
         </script>
-        <link href="/plugins/custom/intl-tel-input/build/css/intlTelInput.min.css" rel="stylesheet" type="text/css" />
+        <link href="/plugins/custom/intl-tel-input/build/css/intlTelInput.css" rel="stylesheet" type="text/css" />
 </head>
 <body  id="Sb_body"  class="header-fixed header-mobile-fixed subheader-enabled page-loading"  >
 

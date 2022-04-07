@@ -22,7 +22,7 @@
     <link href="/plugins/global/plugins.bundle.css" rel="stylesheet" type="text/css"/>
     <link href="/plugins/custom/prismjs/prismjs.bundle.css" rel="stylesheet" type="text/css"/>
 
-    <link href="/plugins/custom/intl-tel-input/build/css/intlTelInput.min.css" rel="stylesheet" type="text/css" />
+    <link href="/plugins/custom/intl-tel-input/build/css/intlTelInput.css" rel="stylesheet" type="text/css" />
 
     <link href="/css/style.css" rel="stylesheet" type="text/css"/>
     <link href="/css/dark.css" rel="stylesheet" type="text/css"/>

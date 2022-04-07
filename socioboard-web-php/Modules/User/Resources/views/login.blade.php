@@ -412,7 +412,7 @@
 
         // initialise plugin
         var itiOtp = window.intlTelInput(otpInput, {
-            utilsScript: "../../build/js/utils.js?1613236686837"
+            utilsScript: "../plugins/custom/intl-tel-input/build/js/utils.js?1613236686837"
         });
 
         var resetOtp = function () {
