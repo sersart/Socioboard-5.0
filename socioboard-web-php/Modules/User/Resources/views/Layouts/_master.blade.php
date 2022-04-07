@@ -56,7 +56,7 @@
         <div class="content order-1 order-lg-2 d-flex flex-column w-100 pb-0" style="background-color: #fff;">
             <!--begin::Title-->
             <div class="d-flex flex-column justify-content-center text-center pt-md-5 pt-sm-5 px-lg-0 pt-2 px-7">
-                <h3 class="display4 font-weight-bolder my-7 text-dark" style="color: #986923;">SocioBoard</h3>
+                <h3 class="display4 font-weight-bolder my-7 text-dark" style="color: #986923;">Social Media Board</h3>
                 <p class="font-weight-bolder font-size-h2-md font-size-lg text-dark opacity-70">
                     Social Media Publishing Simplified
                 </p>
