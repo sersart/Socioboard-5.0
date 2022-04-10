@@ -54,7 +54,7 @@
                     <div class="form-group">
                         <div class="input-icon">
                             <label for="emailOrUsername" style="display: none"></label>
-                            <input class="form-control form-control-solid h-auto py-7 rounded-lg font-size-h6"
+                            <input class="form-control form-control-solid py-7 rounded-lg font-size-h6"
                                    type="text"
                                    name="emailOrUsername" id="emailOrUsername" autocomplete="off"
                                    placeholder="Email Or User Name"/>
@@ -70,7 +70,7 @@
                     <div class="form-group">
                         <div class="input-icon input-icon-right" id="new_password">
                             <label for="password" style="display: none"></label>
-                            <input class="form-control form-control-solid h-auto py-7 rounded-lg font-size-h6"
+                            <input class="form-control form-control-solid py-7 rounded-lg font-size-h6"
                                    type="password" name="password" id="password"
                                    placeholder="Password"/>
                             <span><a href="javascript:;"><i class="fas fa-eye-slash toggle-password"></i></a></span>
