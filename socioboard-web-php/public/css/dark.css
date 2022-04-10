@@ -30,8 +30,8 @@
 
     --card-body-grid-3: #242628;
 
-    --shadow-light: #1e2020;
-    --shadow-dark: #282c2c;
+    --shadow-light: #191a1b;
+    --shadow-dark: #191a1b;
     --scrollbar-bg: var(--primary-color);
     --blue-light-color: #3699ff;
     --text-dark-blue: #244fd2;
@@ -59,7 +59,7 @@
     --card-body-grid-3: #f1ebeb;
 
     --shadow-light: #c2c2c2;
-    --shadow-dark: #ffffff;
+    --shadow-dark: #c2c2c2;
     --scrollbar-bg: var(--primary-color);
     --text-dark-blue: #244fd2;
 }
@@ -462,7 +462,7 @@ i {
 
 .btn-bitly {
     background-image: linear-gradient(145deg, #e55d21, #f36021) !important;
-    color: var(--white); !importantar
+    color: var(--white) !important;
 }
 .btn-medium {
     background-image: linear-gradient(145deg, #000, #000) !important;
@@ -1998,7 +1998,7 @@ html[data-theme='dark'] .assistant-right-sidebar {
 .blackfriday-modal .input-group {
     width: 300px;
     margin: 0 auto;
-    border: 1px dashed#fff;
+    border: 1px dashed #fff;
     border-radius: 5px;
 }
 .blackfriday-modal .input-group-prepend {
