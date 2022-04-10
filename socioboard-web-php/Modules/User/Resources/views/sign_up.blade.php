@@ -19,7 +19,7 @@
             <div class="form-group">
                 <div class="input-icon">
                     <label for="firstName" style="display: none"></label>
-                    <input class="form-control form-control-solid h-auto py-7 rounded-lg font-size-h6" type="text"
+                    <input class="form-control form-control-solid h-auto py-7 rounded-lg font-size-lg" type="text"
                            value="{{ old('firstName') }}" placeholder="First Name" name="firstName" id="firstName"
                            autocomplete="off"/>
                     <span><i class="far fa-user"></i></span>
@@ -35,7 +35,7 @@
             <div class="form-group">
                 <div class="input-icon">
                     <label for="lastName" style="display: none"></label>
-                    <input class="form-control form-control-solid h-auto py-7 rounded-lg font-size-h6" type="text"
+                    <input class="form-control form-control-solid h-auto py-7 rounded-lg font-size-lg" type="text"
                            value="{{ old('lastName') }}" placeholder="Last Name" name="lastName" id="lastName"
                            autocomplete="off"/>
                     <span><i class="far fa-user"></i></span>
@@ -50,7 +50,7 @@
             <div class="form-group">
                 <div class="input-icon">
                     <label for="userName" style="display: none"></label>
-                    <input class="form-control form-control-solid h-auto py-7 rounded-lg font-size-h6" type="text"
+                    <input class="form-control form-control-solid h-auto py-7 rounded-lg font-size-lg" type="text"
                            placeholder="Username" name="userName" id="userName" value="{!! old('userName') !!}"
                            autocomplete="off"/>
                     <span><i class="far fa-user"></i></span>
@@ -66,7 +66,7 @@
             <div class="form-group">
                 <div class="input-icon">
                     <label for="email" style="display: none"></label>
-                    <input class="form-control form-control-solid h-auto py-7 rounded-lg font-size-h6" type="text"
+                    <input class="form-control form-control-solid h-auto py-7 rounded-lg font-size-lg" type="text"
                            id="email" value="{{old('email')}}" placeholder="Email" name="email" autocomplete="off"/>
                     <span><i class="far fa-envelope-open"></i></span>
                 </div>
@@ -81,7 +81,7 @@
             <div class="form-group">
                 <div class="input-group input-group-lg">
 
-                    <input id="phone" type="tel" name="phone" class="form-control form-control-solid h-auto py-7 rounded-lg font-size-h6" placeholder="Phone Number"
+                    <input id="phone" type="tel" name="phone" class="form-control form-control-solid h-auto py-7 rounded-lg font-size-lg" placeholder="Phone Number"
                            value="" />
                 </div>
                 <span id="valid-msg" class="hide"></span>
@@ -92,9 +92,9 @@
 
 {{--            <div class="form-group d-flex align-items-center ">--}}
 {{--                <button type="button" id="Sb_login_signup_cancel"--}}
-{{--                        class="btn font-weight-bolder font-size-h6 px-8 otp-button" onclick="sendOTP()">Send OTP</button>--}}
+{{--                        class="btn font-weight-bolder font-size-lg px-8 otp-button" onclick="sendOTP()">Send OTP</button>--}}
 {{--                <div class="input-icon ml-3">--}}
-{{--                    <input class="form-control form-control-solid h-auto py-7 rounded-lg font-size-h6" type="text"--}}
+{{--                    <input class="form-control form-control-solid h-auto py-7 rounded-lg font-size-lg" type="text"--}}
 {{--                           name="otp" id="otp"  placeholder="Enter OTP"/>--}}
 {{--                </div>--}}
 {{--            </div>--}}
@@ -105,7 +105,7 @@
             <div class="form-group">
                 <div class="input-icon input-icon-right" id="new_password">
                     <label for="password" style="display: none"></label>
-                    <input class="form-control form-control-solid h-auto py-7 rounded-lg font-size-h6" type="password"
+                    <input class="form-control form-control-solid h-auto py-7 rounded-lg font-size-lg" type="password"
                            placeholder="Password" name="password" id="password" value="{{old('password')}}"/>
                     <span><a href="#"><i class="fas fa-eye-slash toggle-password"></i></a></span>
 
@@ -120,7 +120,7 @@
             <div class="form-group">
                 <div class="input-icon input-icon-right" id="confirm_password">
                     <label for="passwordConfirmation" style="display: none"></label>
-                    <input class="form-control form-control-solid h-auto py-7 rounded-lg font-size-h6" type="password"
+                    <input class="form-control form-control-solid h-auto py-7 rounded-lg font-size-lg" type="password"
                            placeholder="Confirm Password" name="passwordConfirmation" id="passwordConfirmation"
                            value="{{ old('passwordConfirmation') }}"/>
                     <span><a href="javascript:;"><i class="fas fa-eye-slash toggle-password"></i></a></span>
@@ -145,11 +145,11 @@
 
             <!--begin::Form group-->
             <div class="form-group d-flex flex-wrap flex-center">
-                <button type="submit" id="submit" class="btn font-weight-bolder font-size-h6 px-8 py-4 my-3 mx-4">
+                <button type="submit" id="submit" class="btn font-weight-bolder font-size-lg px-8 py-4 my-3 mx-4">
                     Submit
                 </button>
                 <button type="reset" id="Sb_login_signup_cancel"
-                        class="btn font-weight-bolder font-size-h6 px-8 py-4 my-3 mx-4">Cancel
+                        class="btn font-weight-bolder font-size-lg px-8 py-4 my-3 mx-4">Cancel
                 </button>
             </div>
             <!--end::Form group-->
