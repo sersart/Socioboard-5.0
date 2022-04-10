@@ -52,90 +52,19 @@
         </div>
         <!--begin::Aside-->
 
-        <!--begin::Content-->
-        <div class="content order-1 order-lg-2 d-flex flex-column w-100 pb-0" style="background-color: #fff;">
-            <!--begin::Title-->
-            <div class="d-flex flex-column justify-content-center text-center pt-md-5 pt-sm-5 px-lg-0 pt-2 px-7">
-                <h3 class="display4 font-weight-bolder my-7 text-dark" style="color: #986923;">Social Media Board</h3>
-                <p class="font-weight-bolder font-size-h2-md font-size-lg text-dark opacity-70">
-                    Social Media Publishing Simplified
-                </p>
-            </div>
-            <!--end::Title-->
-            <!--begin::carousel image-->
-            <div id="SB_carouselIndicator" class="carousel slide" data-ride="carousel">
-                <ol class="carousel-indicators">
-                    <li data-target="#SB_carouselIndicator" data-slide-to="0" class="active"></li>
-                    <li data-target="#SB_carouselIndicator" data-slide-to="1"></li>
-                    <li data-target="#SB_carouselIndicator" data-slide-to="2"></li>
-                    <li data-target="#SB_carouselIndicator" data-slide-to="3"></li>
-                    <li data-target="#SB_carouselIndicator" data-slide-to="4"></li>
-                    <li data-target="#SB_carouselIndicator" data-slide-to="5"></li>
-                    <li data-target="#SB_carouselIndicator" data-slide-to="6"></li>
-                </ol>
-                <div class="carousel-inner SB_carousel-inner">
-                    <div class="carousel-item active">
-                        <img src="/media/png/dashboard_slider.png" class="d-block w-80 mr-auto ml-auto"  alt="...">
-                        <div class="carousel-caption">
-                            <a href="https://socioboard.com/book-a-demo/" target="_blank">
-                                <button type="button" class="btn font-weight-bold text-center py-4 px-5">Book A Demo</button>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="carousel-item">
-                        <img src="/media/png/youtube_slider.png" class="d-block w-80 mr-auto ml-auto" alt="...">
-                        <div class="carousel-caption">
-                            <a href="https://socioboard.com/book-a-demo/" target="_blank">
-                                <button type="button" class="btn font-weight-bold text-center py-4 px-5">Book A Demo</button>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="carousel-item">
-                        <img src="/media/png/contentstdio_slider.png" class="d-block w-80 mr-auto ml-auto" alt="...">
-                        <div class="carousel-caption">
-                            <a href="https://socioboard.com/book-a-demo/" target="_blank">
-                                <button type="button" class="btn font-weight-bold text-center py-4 px-5">Book A Demo</button>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="carousel-item">
-                        <img src="/media/png/discover_slider.png" class="d-block w-80 mr-auto ml-auto" alt="...">
-                        <div class="carousel-caption">
-                            <a href="https://socioboard.com/book-a-demo/" target="_blank">
-                                <button type="button" class="btn font-weight-bold text-center py-4 px-5">Book A Demo</button>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="carousel-item">
-                        <img src="/media/png/teams_slider.png" class="d-block w-80 mr-auto ml-auto" alt="...">
-                        <div class="carousel-caption">
-                            <a href="https://socioboard.com/book-a-demo/" target="_blank">
-                                <button type="button" class="btn font-weight-bold text-center py-4 px-5">Book A Demo</button>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="carousel-item">
-                        <img src="/media/png/reports_slider.png" class="d-block w-80 mr-auto ml-auto" alt="...">
-                        <div class="carousel-caption">
-                            <a href="https://socioboard.com/book-a-demo/" target="_blank">
-                                <button type="button" class="btn font-weight-bold text-center py-4 px-5">Book A Demo</button>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="carousel-item">
-                        <img src="/media/png/gallery_slider.png" class="d-block w-80 mr-auto ml-auto" alt="...">
-                        <div class="carousel-caption">
-                            <a href="https://socioboard.com/book-a-demo/" target="_blank">
-                                <button type="button" class="btn font-weight-bold text-center py-4 px-5">Book A Demo</button>
-                            </a>
-                        </div>
-                    </div>
+            <!--begin::Content-->
+            <div class="content right-content order-1 order-lg-2 d-flex flex-column w-100 pb-0">
+                <!--begin::Title-->
+                <div class="d-flex flex-column justify-content-center text-center pt-md-5 pt-sm-5 px-lg-0 pt-2 px-7">
+                    <h3 class="display4 font-weight-bolder my-7" style="color: #ffffff !importanr;">Social Media Board</h3>
+                    <h3 class="font-weight-bolder my-7" style="color: #ffffff !importanr;">Social Media Publishing Simplified</h3>
+                    <p class="font-weight-bolder font-size-h2-md font-size-lg opacity-70">
+                        <img src="/media/png/right-img1.png" class="img-fluid pl-5" alt="Meeting">
+                    </p>
                 </div>
+                <!--end::Title-->
             </div>
-            <!--end::carousel image-->
-        </div>
-        <!--end::Content-->
-    </div>
+            <!--end::Content-->    </div>
     <!--end::Login-->
 </div>
 <!--end::Main-->

@@ -580,11 +580,13 @@ i {
 /* end:button */
 
 /* Sb_login */
-#Sb_login {
+/*#Sb_login {
     background-color: var(--secondary-color);
-}
+}*/
 /* end:Sb_login */
-
+.login_bg {
+    min-height:calc(100vh); background-image: -webkit-linear-gradient(169deg, #faada1 59%, black 35%) !important;
+}
 /* form */
 .form-control {
     background-color: #3a3b3c;
