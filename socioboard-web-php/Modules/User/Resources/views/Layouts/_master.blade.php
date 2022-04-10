@@ -25,7 +25,7 @@
         </script>
         <link href="/plugins/custom/intl-tel-input/build/css/intlTelInput.css" rel="stylesheet" type="text/css" />
 </head>
-<body  id="Sb_body"  class="header-fixed header-mobile-fixed subheader-enabled page-loading"  >
+<body  id="Sb_body"  class="header-fixed header-mobile-fixed subheader-enabled page-loading login_bg">
 
 <!--begin::Main-->
 <div class="d-flex flex-column flex-root">
