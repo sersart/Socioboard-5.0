@@ -44,7 +44,7 @@ $(document).ready(function () {
         }
     });
 
-    let apiUrl = $('meta[name="api-service-url"]').attr('content');
+    let apiUrl = $('meta[name="api-url"]').attr('content');
     $(document).on('submit', '#sign_up_form', function (e) {
         e.preventDefault();
         let countrycoder = $('.iti__selected-flag').attr('title');
