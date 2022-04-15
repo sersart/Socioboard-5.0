@@ -7,6 +7,11 @@ namespace App\ApiConfig;
 class ApiConfig
 {
 
+    private function API_SERVICE_URL()
+    {
+        return env('API_SERVICE_URL');
+    }
+
     private function API_URL()
     {
         return env('API_URL');
@@ -37,6 +42,11 @@ class ApiConfig
         return $address != null ? $this->API_URL().$this->API_VERSION() . $address : $this->API_URL().$this->API_VERSION();
     }
 
+    private function apiService($address)
+    {
+        return $address != null ? $this->API_SERVICE_URL().$this->API_VERSION() . $address : $this->API_SERVICE_URL().$this->API_VERSION();
+    }
+
     private function apiFeeds($address)
     {
         return $address != null ? $this->FEED_API_URL().$this->API_VERSION() . $address : $this->API_URL().$this->API_VERSION();
@@ -56,6 +66,12 @@ class ApiConfig
     {
         $apiConfig =  new ApiConfig();
         return $apiConfig->api($address);
+    }
+
+    public static function getService($address = null)
+    {
+        $apiConfig =  new ApiConfig();
+        return $apiConfig->apiService($address);
     }
 
     public static function getFeeds($address = null)

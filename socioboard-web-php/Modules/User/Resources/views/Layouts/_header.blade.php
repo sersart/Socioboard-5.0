@@ -3,7 +3,7 @@
 @yield('title')
 <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
-<meta name="api-url" content="{{ \App\ApiConfig\ApiConfig::get() }}"/>
+<meta name="api-service-url" content="{{ \App\ApiConfig\ApiConfig::getService() }}"/>
 <meta name="google-site-verification" content="" />
 <meta name="description" content="Be it marketing(finding leads/customers) on Social media, or listening to customer complaints, replying to them, managing multiple social media accounts from one single dashboard, finding influencers in a particular category and reaching out to them and many more things, Socioboard products can do it." />
 <meta name="keywords" content="Social Media Management Software, Social Media Management tool, Open Source Social Media Management, Social Media Management" />
