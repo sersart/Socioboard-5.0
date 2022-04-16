@@ -1715,8 +1715,7 @@
 @endsection
 
 @section('scripts')
-    <script src="../assets/plugins/daterangepicker/daterangepicker.js"></script>
-    <script src="../assets/plugins/daterangepicker/daterangepicker.js"></script>
+    <script src="../plugins/daterangepicker/daterangepicker.js"></script>
     <script src="{{asset('js/accounts.js')}}"></script>
     <script>
 

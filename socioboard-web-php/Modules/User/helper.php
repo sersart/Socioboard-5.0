@@ -19,7 +19,7 @@ class helper
 
     public function __construct()
     {
-        $this->client = new Client();
+        $this->client = new Client(['verify' => false]);
     }
 
     public static function getInstance(): helper
