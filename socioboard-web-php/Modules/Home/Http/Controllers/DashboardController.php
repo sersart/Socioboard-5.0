@@ -1060,7 +1060,7 @@ class DashboardController extends Controller
             $teamID = 0;
             $team = Session::get('team');
             $teamID = $team['teamid'];
-            $apiUrl2 = $this->API_URL_NOTIFICATION . '/v1/notify/get-team-notification?teamId=' . $teamID . '&pageId=' . $pageid;
+            $apiUrl2 = $this->API_URL_NOTIFICATION . 'v1/notify/get-team-notification?teamId=' . $teamID . '&pageId=' . $pageid;
             $response = $this->helper->postApiCallWithAuth('post', $apiUrl2);
             $responseData = $this->helper->responseHandler($response['data']);
             return $responseData;
@@ -1081,7 +1081,7 @@ class DashboardController extends Controller
             $pageid = $request->pageid;
             $userSession = Session::get('user');
             $userid = $userSession['userDetails']['user_id'];
-            $apiUrl2 = $this->API_URL_NOTIFICATION . '/v1/notify/get-user-notification?userId=' . $userid . '&pageId=' . $pageid;
+            $apiUrl2 = $this->API_URL_NOTIFICATION . 'v1/notify/get-user-notification?userId=' . $userid . '&pageId=' . $pageid;
             $response = $this->helper->postApiCallWithAuth('post', $apiUrl2);
             $responseData = $this->helper->responseHandler($response['data']);
             return $responseData;
