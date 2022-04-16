@@ -18,7 +18,7 @@ $(document.body).on('click', '#addToCart', function () {
             timeOut: 2000,
             fadeOut: 3000,
             onHidden: function () {
-                document.location.href = 'https://appv5.socioboard.com/plan-details-view';
+                document.location.href = 'https://app.social-media-board.com/plan-details-view';
             }
         });
     }
