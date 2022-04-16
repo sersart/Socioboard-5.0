@@ -93,7 +93,7 @@
       "OAuth_consumer_Key":"",
       "OAuth_consumer_secret":"" 
      },
-  "test_url": "",
+  "test_url": "<<test_url>>",
     "jest": {
       "access_token": "<< JEST ACCESS TOKEN >>"
     },

@@ -115,7 +115,7 @@
       "client_secret": "",
       "maximum_post_per_day": 100
     },
-    "test_url": "",
+    "test_url": "<<test_url>>",
     "instagram_api": {
       "client_id": "",
       "client_secret": "",

@@ -141,7 +141,7 @@
         "version": "5.0.0"
       }
     },
-    "test_url": "",
+    "test_url": "<<test_url>>",
      "rssUrl": {
        "max_history": 5
       } ,
