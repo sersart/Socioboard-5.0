@@ -1,11 +1,13 @@
 import { getEnv, getEnvStrict } from '../Shared/config.shared.js';
 import { getEnvironment } from './constants.js';
 
+const enviroment = getEnvironment(process.env.NODE_ENV);
+
 const API_URL = 'https://api-ssl.bitly.com';
 
 const BITLY_URL = 'https://bitly.com';
 
-const TEST_API_URL = getEnvStrict('test_url');
+const TEST_API_URL = enviroment !== 'TEST' ? '' : getEnvStrict('test_url');
 
 const BitlyConstants = {
   PRODUCTION: {
@@ -74,7 +76,5 @@ const commonBitlyConstants = {
   BITLINK: 'demo-bitlink',
   BITLINK_FORBIDDEN: 'demo-bitlink-forbidden',
 };
-
-const enviroment = getEnvironment(process.env.NODE_ENV);
 
 export default Object.assign(BitlyConstants[enviroment], commonBitlyConstants);

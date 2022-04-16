@@ -1,9 +1,11 @@
 import { getEnv, getEnvStrict } from '../Shared/config.shared.js';
 import { getEnvironment } from './constants.js';
 
+const enviroment = getEnvironment(process.env.NODE_ENV);
+
 const API_URL = 'https://api.twitter.com/1.1';
 
-const TEST_API_URL = getEnvStrict('test_url');
+const TEST_API_URL = enviroment !== 'TEST' ? '' : getEnvStrict('test_url');
 
 const TwitterConstants = {
   PRODUCTION: {
@@ -39,8 +41,6 @@ const commonTwitterConstants = {
   COUNTRY_CODE: 12,
   ACCOUNT_TYPE: 4,
 };
-
-const enviroment = getEnvironment(process.env.NODE_ENV);
 
 const TWITTER_API_URL = enviroment !== 'TEST' ? API_URL : `${TEST_API_URL}/v1/demo/twitter`;
 
