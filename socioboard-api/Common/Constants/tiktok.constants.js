@@ -3,6 +3,8 @@ import {getEnvironment} from './constants.js';
 
 const API_URL = 'https://open-api.tiktok.com';
 
+const enviroment = getEnvironment(process.env.NODE_ENV);
+
 //const TEST_API_URL = getEnvStrict('test_url');
 const TEST_API_URL = enviroment !== 'TEST' ? '' : getEnvStrict('test_url');
 
@@ -107,7 +109,6 @@ const commonTikTokConstants = {
   RESPONSE_USER_INFO_FIELDS: ['display_name', 'avatar_url', 'avatar_large_url'],
 };
 
-const enviroment = getEnvironment(process.env.NODE_ENV);
 
 export default Object.freeze(
   Object.assign(TikTokConstants[enviroment], commonTikTokConstants)
