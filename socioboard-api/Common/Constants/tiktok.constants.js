@@ -3,7 +3,8 @@ import {getEnvironment} from './constants.js';
 
 const API_URL = 'https://open-api.tiktok.com';
 
-const TEST_API_URL = getEnvStrict('test_url');
+//const TEST_API_URL = getEnvStrict('test_url');
+const TEST_API_URL = enviroment !== 'TEST' ? '' : getEnvStrict('test_url');
 
 const TikTokConstants = {
   PRODUCTION: {
