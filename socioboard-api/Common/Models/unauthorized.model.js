@@ -714,13 +714,15 @@ class userLibs {
     if (planId) {
       return this.getPlanDetails(planId);
     }
-    const res = await applicationInfo.findAll({
-      where: {
-        plan_id: {
-          [Operator.not]: config.get('appsumo.plan'),
-        },
-      },
-    });
+    // const res = await applicationInfo.findAll({
+    //   where: {
+    //     plan_id: {
+    //       [Operator.not]: config.get('appsumo.plan'),
+    //     },
+    //   },
+    // });
+
+    const res = await applicationInfo.findAll();
 
     return res;
   }

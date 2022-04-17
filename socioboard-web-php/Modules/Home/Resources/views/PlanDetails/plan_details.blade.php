@@ -59,7 +59,7 @@
                 <!--end::Card-->
                 <!--end::Plans-->
             </div>
-            <!--end::Container-->
+            <!--end::Container--> 
         </div>
         <!--end::Entry-->
     </div>
