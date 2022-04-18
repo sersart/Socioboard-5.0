@@ -369,8 +369,8 @@ i {
     );
     background-clip: padding-box, border-box;
     background-origin: padding-box, border-box;
-    box-shadow: 6px 6px 10px var(--shadow-light),
-    -6px -6px 10px var(--shadow-dark);
+    box-shadow: 2px 2px 4px var(--shadow-light),
+    -2px -2px 4px var(--shadow-dark);
     color: var(--font-color);
 }
 .card.card-custom > .card-header .card-title,
