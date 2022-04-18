@@ -567,7 +567,7 @@ class MailService extends MailBase {
                                                                                                 <span>
                                                                                                     <a href="https://www.social-media-board.com/"
                                                                                                         style="color:#0f48d5;" target="_blank">
-                                                                                                        <img src="http://social-media-board.com/wp-content/uploads/2022/04/social-media-board-logo.png"
+                                                                                                        <img src="http://social-media-board.com/wp-content/uploads/2022/04/company-logo-1-1.png"
                                                                                                             alt="Social Media Board"
                                                                                                             width="auto" height="80"
                                                                                                             border="0"
@@ -1056,7 +1056,7 @@ class MailService extends MailBase {
                                                                                                 <span>
                                                                                                     <a href="https://www.social-media-board.com/"
                                                                                                         style="color:#0f48d5;" target="_blank">
-                                                                                                        <img src="http://social-media-board.com/wp-content/uploads/2022/04/social-media-board-logo.png"
+                                                                                                        <img src="http://social-media-board.com/wp-content/uploads/2022/04/company-logo-1-1.png"
                                                                                                             alt="Social Media Board"
                                                                                                             width="auto" height="80"
                                                                                                             border="0"
@@ -1552,7 +1552,7 @@ class MailService extends MailBase {
                                                                                           <span>
                                                                                               <a href="https://www.social-media-board.com/"
                                                                                                   style="color:#0f48d5;" target="_blank">
-                                                                                                  <img src="http://social-media-board.com/wp-content/uploads/2022/04/social-media-board-logo.png"
+                                                                                                  <img src="http://social-media-board.com/wp-content/uploads/2022/04/company-logo-1-1.png"
                                                                                                       alt="Social Media Board"
                                                                                                       width="auto" height="80"
                                                                                                       border="0"
@@ -1963,7 +1963,7 @@ class MailService extends MailBase {
                                                                                                  <span>
                                                                                                      <a href="https://www.social-media-board.com/"
                                                                                                          style="color:#0f48d5;" target="_blank">
-                                                                                                         <img src="http://social-media-board.com/wp-content/uploads/2022/04/social-media-board-logo.png"
+                                                                                                         <img src="http://social-media-board.com/wp-content/uploads/2022/04/company-logo-1-1.png"
                                                                                                              alt="Social Media Board"
                                                                                                              width="auto" height="80"
                                                                                                              border="0"
@@ -2700,7 +2700,7 @@ class MailService extends MailBase {
                                                                                                  <span>
                                                                                                      <a href="https://www.social-media-board.com/"
                                                                                                          style="color:#0f48d5;" target="_blank">
-                                                                                                         <img src="http://social-media-board.com/wp-content/uploads/2022/04/social-media-board-logo.png"
+                                                                                                         <img src="http://social-media-board.com/wp-content/uploads/2022/04/company-logo-1-1.png"
                                                                                                              alt="Social Media Board"
                                                                                                              width="auto" height="80"
                                                                                                              border="0"
@@ -3205,7 +3205,7 @@ class MailService extends MailBase {
                                                                                       <span>
                                                                                           <a href="https://www.social-media-board.com/"
                                                                                               style="color:#0f48d5;" target="_blank">
-                                                                                              <img src="http://social-media-board.com/wp-content/uploads/2022/04/social-media-board-logo.png"
+                                                                                              <img src="http://social-media-board.com/wp-content/uploads/2022/04/company-logo-1-1.png"
                                                                                                   alt="Social Media Board"
                                                                                                   width="auto" height="80"
                                                                                                   border="0"
