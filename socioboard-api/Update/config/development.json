@@ -12,16 +12,16 @@
   "facebook_api": {
     "app_id": "<< APP ID >>",
     "secret_key": "<< APP SECRET >>",
-    "redirect_url": "https://local.socioboard.com/facebook-callback",
-    "fbprofile_add_redirect_url": "https://local.socioboard.com/addSocialProfile",
+    "redirect_url": "https://local.social-media-board.com/facebook-callback",
+    "fbprofile_add_redirect_url": "https://local.social-media-board.com/addSocialProfile",
     "webhook_token": "<< webhook_token >>"
   },
   "google_api": {
     "client_id": "<< APP CLIENT ID >>",
     "client_secrets": "<< CLIENT SECRET >>",
-    "redirect_url": "https://local.socioboard.com/google-callback",
-    "youtube_redirect_url": "https://local.socioboard.com/youtube/callback",
-    "google_profile_add_redirect_url": "https://local.socioboard.com/youtube/callback",
+    "redirect_url": "https://local.social-media-board.com/google-callback",
+    "youtube_redirect_url": "https://local.social-media-board.com/youtube/callback",
+    "google_profile_add_redirect_url": "https://local.social-media-board.com/youtube/callback",
     "api_key": "<< APP KEY >>",
     "dynamic_link": "https://socionode.page.link",
     "youtube_webhook_url": "http://localhost:3002/v1/webhooks/youtube"

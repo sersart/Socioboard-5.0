@@ -766,7 +766,7 @@
                                         <i class="fas fa-circle text-success"></i>
                                     </span>
                                 </span>
-                                <span class="navi-text text-hover-primary">chanchalsantra@socioboard.com</span>
+                                <span class="navi-text text-hover-primary">chanchalsantra@social-media-board.com</span>
                             </span>
                     </a>
 

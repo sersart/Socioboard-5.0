@@ -150,7 +150,7 @@ class BitlyController {
           schema: {
             $accountId: 1,
             $teamId: 1,
-            $long_url: 'https://socioboard.com'
+            $long_url: 'https://social-media-board.com'
           }
        }
     */

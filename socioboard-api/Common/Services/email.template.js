@@ -50,9 +50,9 @@ export default function emailTemplate({report_type}) {
                                                                                   <td class="center" align="center"
                                                                                       style="padding: 0px; text-transform: uppercase; font-family: Lucida Sans Unicode; color:#666666; font-size:24px; line-height:34px;">
                                                                                       <span>
-                                                                                          <a href="https://www.socioboard.com/"
+                                                                                          <a href="https://www.social-media-board.com/"
                                                                                               style="color:#0f48d5;" target="_blank">
-                                                                                              <img src="http://socioboard.com/wp-content/uploads/2021/07/0x0.png"
+                                                                                              <img src="http://social-media-board.com/wp-content/uploads/2022/04/social-media-board-logo.png"
                                                                                                   alt="Socioboard"
                                                                                                   width="auto" height="80"
                                                                                                   border="0"
@@ -104,7 +104,7 @@ export default function emailTemplate({report_type}) {
                                                               <tr>
                                                                   <td style="padding: 0px;" width="600" valign="middle">
                                                                       <a href="#">
-                                                                      <img alt="Auto Email Reports" src="http://socioboard.com/wp-content/uploads/2021/07/download-report.png" style="width: 100%; display:block;">
+                                                                      <img alt="Auto Email Reports" src="http://social-media-board.com/wp-content/uploads/2022/04/social-media-board-logo.png" style="width: 100%; display:block;">
                                                                       </a>
                                                                   </td>
                                                               </tr>
@@ -289,9 +289,9 @@ export default function emailTemplate({report_type}) {
                                                                                   <td class="center" align="center"
                                                                                       style="padding: 0px; text-transform: uppercase; font-family: Lucida Sans Unicode; color:#666666; font-size:24px; line-height:0; padding-bottom: 0px;">
                                                                                       <span>
-                                                                                          <a href="https://www.socioboard.com/"
+                                                                                          <a href="https://www.social-media-board.com/"
                                                                                               style="color:#0f48d5;"  target="_blank">
-                                                                                              <img src="http://socioboard.com/wp-content/uploads/2021/07/socioboard-logo-white.png"
+                                                                                              <img src="http://social-media-board.com/wp-content/uploads/2022/04/social-media-board-logo.png"
                                                                                                   alt="Socioboard"
                                                                                                   width="auto" height="42"
                                                                                                   border="0"
@@ -354,17 +354,17 @@ export default function emailTemplate({report_type}) {
                                                                                       <span>
                                                                                           <a href="https://www.facebook.com/SocioBoard"
                                                                                               target="_blank" style="padding-right: 28px; text-decoration: none;">
-                                                                                              <img src="http://socioboard.com/wp-content/uploads/2021/07/mail-fb-icon.png"
+                                                                                              <img src="http://social-media-board.com/wp-content/uploads/2022/04/mail-fb-icon.png"
                                                                                                   style="width: 30px;" alt="facebook">
                                                                                           </a> &nbsp;
                                                                                           <a href="https://twitter.com/Socioboard"
                                                                                               target="_blank" style="padding-right: 28px; text-decoration: none;">
-                                                                                              <img src="http://socioboard.com/wp-content/uploads/2021/07/mail-tw-icon.png"
+                                                                                              <img src="http://social-media-board.com/wp-content/uploads/2022/04/mail-tw-icon.png"
                                                                                                   style="width: 30px;" alt="twitter">
                                                                                           </a> &nbsp;
                                                                                           <a href="https://www.linkedin.com/company/socioboard-technologies-private-limited"
                                                                                               target="_blank" style=" text-decoration: none;">
-                                                                                              <img src="http://socioboard.com/wp-content/uploads/2021/07/mail-in-icon.png"
+                                                                                              <img src="http://social-media-board.com/wp-content/uploads/2022/04/mail-in-icon.png"
                                                                                                   style="width: 30px;" alt="linkedin">
                                                                                           </a>
                                                                                       </span>
@@ -380,7 +380,7 @@ export default function emailTemplate({report_type}) {
                                                                                       <th width="10px" style="border-right: 1px solid #bdbdbd;"></th>
                                                                                       <th width="10px"></th>
                                                                                       <th>
-                                                                                        <a href="https://www.socioboard.com/" style="color:#bdbdbd;font-family: Open sans, Arial, Helvetica, sans-serif; font-size:14px;font-weight:400; line-height:15px; text-decoration: none;" target="_blank">socioboard.com</a>
+                                                                                        <a href="https://www.social-media-board.com/" style="color:#bdbdbd;font-family: Open sans, Arial, Helvetica, sans-serif; font-size:14px;font-weight:400; line-height:15px; text-decoration: none;" target="_blank">social-media-board.com</a>
                                                                                       </th>
                                                                                       <th width="10px" style="border-right: 1px solid #bdbdbd;"></th>
                                                                                       <th width="10px"></th>

@@ -6,7 +6,7 @@ data-title="{{ $item->title }}"
 data-description="{{ $item->description }}"
 data-type="image"
 >
-    <img src="{{ $item->mediaUrl }}" class="card-img-top" onerror=" this.onerror=null;this.src='https://i.imgur.com/eRkLsuQ.png';">
+    <img src="{{ $item->mediaUrl }}" class="card-img-top" onerror=" this.onerror=null;this.src='https://i.imgur.com/p0px2iu.png';">
     <div class="card-body">
         <div class="board-card">
     	<div class="d-flex align-items-center">

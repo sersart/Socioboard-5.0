@@ -1089,7 +1089,7 @@ class unauthorizedController {
           const userVerified = await unauthorizedLibs.userUnholded(
             req.query.email
           );
-          // if (userVerified) return res.redirect("http://local.socioboard.com/verifyEmails")
+          // if (userVerified) return res.redirect("http://local.social-media-board.com/verifyEmails")
 
           if (userVerified) {
             return SuccessResponse(

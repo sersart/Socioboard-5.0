@@ -70,7 +70,7 @@ describe('Bitly shorten link test', () => {
       .send({
         accountId: 'test',
         teamId,
-        long_url: 'http://socioboard.com'
+        long_url: 'http://social-media-board.com'
       })
       .expect(200)
       .expect(({ body }) => {
@@ -87,7 +87,7 @@ describe('Bitly shorten link test', () => {
       .send({
         accountId: bitlyAccount.profileDetails.account_id,
         teamId,
-        long_url: 'http://socioboard.com'
+        long_url: 'http://social-media-board.com'
       })
       .expect(200)
       .expect(({ body }) => {

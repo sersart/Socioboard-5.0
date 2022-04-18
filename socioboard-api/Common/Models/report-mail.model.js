@@ -312,7 +312,7 @@ class ReportMailModel {
         { id: 'postFailed', title: 'Post Failed' },
         { id: 'schedulePosts', title: 'Schedule Posts' },
       ];
-      const pdfFileLogoUrl = 'https://i.imgur.com/eRkLsuQ.png';
+      const pdfFileLogoUrl = 'https://i.imgur.com/p0px2iu.png';
       const pdfDoc = new PdfMaker({ filepath: filePath }).createPdfDoc();
 
       pdfDoc.setFont(this.language);
@@ -373,7 +373,7 @@ class ReportMailModel {
 
       ];
       // adding reseller logo link
-      const pdfFileLogoUrl = 'https://i.imgur.com/eRkLsuQ.png';
+      const pdfFileLogoUrl = 'https://i.imgur.com/p0px2iu.png';
       const pdfDoc = new PdfMaker({ filepath: filePath }).createPdfDoc();
 
       pdfDoc.setFont(this.language);
@@ -436,7 +436,7 @@ class ReportMailModel {
         { id: 'views', title: 'Views Count' },
       ];
       // adding reseller logo link
-      const pdfFileLogoUrl = 'https://i.imgur.com/eRkLsuQ.png';
+      const pdfFileLogoUrl = 'https://i.imgur.com/p0px2iu.png';
       const pdfDoc = new PdfMaker({ filepath: filePath }).createPdfDoc();
 
       pdfDoc.setFont(this.language);

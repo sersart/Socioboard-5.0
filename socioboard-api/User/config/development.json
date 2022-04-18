@@ -1,6 +1,6 @@
 {
     "user_socioboard": {
-      "mail_url": "https://local.socioboard.com",
+      "mail_url": "https://local.social-media-board.com",
       "host_url": "http://localhost:3000",
       "port": "3000",
       "host": "localhost:3000"
@@ -9,13 +9,13 @@
     "invite_redirect_url_web": "",
     "swagger_host_url": "localhost:3000",
     "TIMEZONE": "",
-    "profile_add_redirect_url": "https://local.socioboard.com/facebook/callback",
-    "profile_page_redirect_url": "https://local.socioboard.com/facebook-page/callback",
+    "profile_add_redirect_url": "https://local.social-media-board.com/facebook/callback",
+    "profile_page_redirect_url": "https://local.social-media-board.com/facebook-page/callback",
     "facebook_api": {
       "app_id": "<< APP ID >>",
       "secret_key": "<< APP SECRET >>",
-      "redirect_url": "https://local.socioboard.com/facebook-callback",
-      "fbprofile_add_redirect_url": "https://local.socioboard.com/facebook/callback",
+      "redirect_url": "https://local.social-media-board.com/facebook-callback",
+      "fbprofile_add_redirect_url": "https://local.social-media-board.com/facebook/callback",
       "invite_redirect_url": "",
       "page_scopes": "",
       "group_scopes":"",
@@ -26,9 +26,9 @@
     "google_api": {
       "client_id": "<< APP CLIENT ID >>",
       "client_secrets": "<< CLIENT SECRET >>",
-      "redirect_url": "https://local.socioboard.com/google-callback",
-      "youtube_redirect_url": "https://local.socioboard.com/youtube/callback",
-      "google_profile_add_redirect_url": "https://local.socioboard.com/youtube/callback",
+      "redirect_url": "https://local.social-media-board.com/google-callback",
+      "youtube_redirect_url": "https://local.social-media-board.com/youtube/callback",
+      "google_profile_add_redirect_url": "https://local.social-media-board.com/youtube/callback",
       "api_key": "<< API KEY >>",
       "dynamic_link": "https://socionode.page.link",
       "youtube_webhook_url": "http://localhost:3002/v1/webhooks/youtube",
@@ -39,13 +39,13 @@
     "github_api": {
       "client_id": "<< APP CLIENT ID >>",
       "client_secret": "<< CLIENT SECRET >>",
-      "redirect_url": "https://local.socioboard.com/github-callback"
+      "redirect_url": "https://local.social-media-board.com/github-callback"
     },
     "twitter_api": {
       "api_key": "<< APP KEY >>",
       "secret_key": "<< CLIENT SECRET >>",
-      "login_redirect_url": "https://local.socioboard.com/twitter-callback",
-      "redirect_url": "https://local.socioboard.com/twitter/callback",
+      "login_redirect_url": "https://local.social-media-board.com/twitter-callback",
+      "redirect_url": "https://local.social-media-board.com/twitter/callback",
       "invite_redirect_url": "",
       "app_name": "<< APP NAME >>",
       "webhook_url": "https://localhost:3002/v1/webhooks/twitter",
@@ -55,8 +55,8 @@
     "linkedIn_api": {
       "client_id": "<< APP CLIENT ID >>",
       "client_secret": "<< CLIENT SECRET >>",
-      "redirect_url": "https://local.socioboard.com/linkedin/callback",
-      "redirect_url_page":"https://local.socioboard.com/linkedIn-pages/callback",
+      "redirect_url": "https://local.social-media-board.com/linkedin/callback",
+      "redirect_url_page":"https://local.social-media-board.com/linkedIn-pages/callback",
       "invite_redirect_url": "",
       "invite_redirect_url_page":"",
       "scope":""
@@ -64,8 +64,8 @@
     "instagram_api": {
       "client_id": "<< APP CLIENT ID >>",
       "client_secret": "<< CLIENT SECRET >>",
-      "redirect_url": "https://local.socioboard.com/insta-callback",
-      "invite_redirect_url": "https://local.socioboard.com/insta-invite/callback"
+      "redirect_url": "https://local.social-media-board.com/insta-callback",
+      "invite_redirect_url": "https://local.social-media-board.com/insta-invite/callback"
     },
     "pinterest": {
       "client_id": "<< APP CLIENT ID >>",
@@ -76,7 +76,7 @@
     "instagram_business_api": {
       "client_id": "<< APP CLIENT ID >>",
       "client_secret": "<< CLIENT SECRET >>",
-      "business_redirect_url": "https://local.socioboard.com/instagram-business/callback",
+      "business_redirect_url": "https://local.social-media-board.com/instagram-business/callback",
       "business_invite_redirect_url": "",
       "business_account_scopes":""
     },
@@ -143,7 +143,7 @@
     },
     "notification_socioboard": {
       "status": "on",
-      "host_url": "https://notifyv5.socioboard.com"
+      "host_url": "https://notifyv5.social-media-board.com"
     },
     "twilio": {
       "account_sid": "<< twilio account_sid >>",

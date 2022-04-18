@@ -53,7 +53,7 @@ describe('Edit team', () => {
     const createdTeam = await teamLibs.createTeam(userId, {
       name: 'editTeamTest',
       description: 'Short note about the team activity.',
-      logoUrl: 'https://i.imgur.com/eRkLsuQ.png',
+      logoUrl: 'https://i.imgur.com/p0px2iu.png',
     });
 
     await request(SERVER)
@@ -65,7 +65,7 @@ describe('Edit team', () => {
         TeamInfo: {
           name: 'editedTestName',
           description: 'Short note about the team activity.',
-          logoUrl: 'https://i.imgur.com/eRkLsuQ.png',
+          logoUrl: 'https://i.imgur.com/p0px2iu.png',
         },
       })
       .set('accept', 'application/json')

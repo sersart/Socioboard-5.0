@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/zJHrgwr.png" alt="Socioboard logo"></a>
+ <img width=200px height=200px src="https://i.imgur.com/p0px2iu.png" alt="Socioboard logo"></a>
 </p>
 
 <h3 align="center">Socioboard 5.0</h3>

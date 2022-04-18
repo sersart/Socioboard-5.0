@@ -19,7 +19,7 @@ class Validator {
     //     "firstName": "socio",
     // "lastName": "board",
     // "dateOfBirth": "1997-09-07",
-    // "profilePicture": "https://www.socioboard.com/contents/socioboard/images/Socioboard.png",
+    // "profilePicture": "https://www.social-media-board.com/contents/socioboard/images/Socioboard.png",
     // "phoneCode": "+91",
     // "phoneNo": "1324575248",
     // "country": "India",

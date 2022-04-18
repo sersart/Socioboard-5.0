@@ -392,7 +392,7 @@ class DashboardController extends Controller
                 $refreshToken = $channelDetails->refreshToken;
                 $dataToPass = [];
                 $data = array('account_type' => "9", 'user_name' => $channelId, 'first_name' => $channelname, 'email' => '', 'social_id' => $channelId,
-                    'profile_pic_url' => $channelImageUrl, 'cover_pic_url' => 'https://www.socioboard.com/contents/socioboard/images/Socioboard.png',
+                    'profile_pic_url' => $channelImageUrl, 'cover_pic_url' => 'https://www.social-media-board.com/contents/socioboard/images/Socioboard.png',
                     'last_name' => '', 'profile_url' => $channelProfileUrl, 'access_token' => $accessToken, 'refresh_token' => $refreshToken, 'friendship_counts' => $friendShipCount,
                     'info' => 'Build the success life with using Smart utils like sociobord for Social Networks'
                 );
@@ -1620,8 +1620,8 @@ class DashboardController extends Controller
                 $accessToken = $channelDetails['accessToken'];
                 $refreshToken = $channelDetails['refreshToken'];
                 $dataToPass = [];
-                $data = array('account_type' => "9", 'user_name' => $channelId, 'first_name' => $channelname, 'email' => 'socioboard@socioboard.com', 'social_id' => $channelId,
-                    'profile_pic_url' => $channelImageUrl, 'cover_pic_url' => 'https://www.socioboard.com/contents/socioboard/images/Socioboard.png',
+                $data = array('account_type' => "9", 'user_name' => $channelId, 'first_name' => $channelname, 'email' => 'socioboard@social-media-board.com', 'social_id' => $channelId,
+                    'profile_pic_url' => $channelImageUrl, 'cover_pic_url' => 'https://www.social-media-board.com/contents/socioboard/images/Socioboard.png',
                     'last_name' => '', 'profile_url' => $channelProfileUrl, 'access_token' => $accessToken, 'refresh_token' => $refreshToken, 'friendship_counts' => $friendShipCount,
                     'info' => 'Build the success life with using Smart utils like sociobord for Social Networks'
                 );

@@ -53,7 +53,7 @@ describe('Delete team', () => {
     const createdTeam = await teamLibs.createTeam(userId, {
       name: 'deleteTeamTest',
       description: 'Short note about the team activity.',
-      logoUrl: 'https://i.imgur.com/eRkLsuQ.png',
+      logoUrl: 'https://i.imgur.com/p0px2iu.png',
     });
 
     await request(SERVER)

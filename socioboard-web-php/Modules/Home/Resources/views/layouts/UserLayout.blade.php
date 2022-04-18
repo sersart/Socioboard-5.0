@@ -440,7 +440,7 @@
                                     </div>
                                     <span class="symbol symbol-35">
                                                     <img
-                                                            src="<?php if (isset(session()->get('team')['teamLogo'])) echo session()->get('team')['teamLogo']; else  echo 'https://i.imgur.com/eRkLsuQ.png' ?>"
+                                                            src="<?php if (isset(session()->get('team')['teamLogo'])) echo session()->get('team')['teamLogo']; else  echo 'https://i.imgur.com/p0px2iu.png' ?>"
                                                             alt="SB">
                                                 </span>
                                 </div>

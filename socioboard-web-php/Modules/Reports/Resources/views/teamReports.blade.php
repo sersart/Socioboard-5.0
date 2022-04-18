@@ -54,7 +54,7 @@
                             <!--begin::Pic-->
                             <div class="flex-shrink-0 mr-7">
                                 <div class="symbol symbol-50 symbol-lg-120">
-                                    @if($teams['data']->teamSocialAccountDetails[0][0]->team_logo === 'www.socioboard.com' || $teams['data']->teamSocialAccountDetails[0][0]->team_logo === "www.NA.com" )
+                                    @if($teams['data']->teamSocialAccountDetails[0][0]->team_logo === 'www.social-media-board.com' || $teams['data']->teamSocialAccountDetails[0][0]->team_logo === "www.NA.com" )
                                         <img id="teamImageLink"
                                              src="/media/logos/sb-icon.svg" alt="SB"/>
                                     @else

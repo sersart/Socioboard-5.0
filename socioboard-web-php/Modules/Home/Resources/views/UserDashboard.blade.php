@@ -36,7 +36,7 @@
         localStorage.setItem('random_key', '<?php echo(session()->get('user')['userDetails']['password']);?>');
 
         if (window.getCookie('SBPlan')) {
-            document.cookie = 'SBPlan=; Path=/;path=/;domain=socioboard.com; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+            document.cookie = 'SBPlan=; Path=/;path=/;domain=social-media-board.com; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
             window.location.href = "https://app.social-media-board.com/amember/member";
         }
         //    Check if plan is clicked or not

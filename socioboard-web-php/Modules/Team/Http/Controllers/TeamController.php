@@ -120,7 +120,7 @@ class TeamController extends Controller
                     $data['TeamInfo'] = array(
                         "name" => $request->team_name,
                         "description" => "Short note about the team activity",
-                        "logoUrl" => 'https://i.imgur.com/eRkLsuQ.png'
+                        "logoUrl" => 'https://i.imgur.com/p0px2iu.png'
                     );
                 }
             } catch (\GuzzleHttp\Exception\RequestException $e) {
@@ -595,7 +595,7 @@ class TeamController extends Controller
             $response = $this->helper->postApiCallWithAuth('post', $apiUrl, $filedata, true);
             $responseData = $this->helper->responseHandler($response['data']);
             if ($responseData['code'] == 200) {
-                $mediaUrl = 'https://feedsv5.socioboard.com' . $responseData['data'][0]->media_url;
+                $mediaUrl = 'https://feedsv5.social-media-board.com' . $responseData['data'][0]->media_url;
                 $details['TeamInfo'] = array(
                     "name" => $request->team_name,
                     "logoUrl" => $mediaUrl

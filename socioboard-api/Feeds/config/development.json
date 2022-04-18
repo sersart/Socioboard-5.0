@@ -50,12 +50,12 @@
       "host": "<< host >>",
       "db_name": "<< Database name >>"
     },
-    "profile_add_redirect_url": "https://local.socioboard.com/addSocialProfile",
+    "profile_add_redirect_url": "https://local.social-media-board.com/addSocialProfile",
     "facebook_api": {
       "app_id": "<< APP ID >>",
       "secret_key": "<< APP SECRET >>",
-      "redirect_url": "https://local.socioboard.com/facebook-callback",
-      "fbprofile_add_redirect_url": "https://local.socioboard.com/facebook/callback",
+      "redirect_url": "https://local.social-media-board.com/facebook-callback",
+      "fbprofile_add_redirect_url": "https://local.social-media-board.com/facebook/callback",
       "webhook_token": "<< WebhookToken >>",
       "update_time_frequency_value":"",
       "update_time_frequency_factor": ""
@@ -63,9 +63,9 @@
     "google_api": {
       "client_id": "<< APP CLIENT ID >>",
       "client_secrets": "<< CLIENT SECRET >>",
-      "redirect_url": "https://local.socioboard.com/google-callback",
-      "youtube_redirect_url": "https://local.socioboard.com/youtube/callback",
-      "google_profile_add_redirect_url": "https://local.socioboard.com/youtube/callback",
+      "redirect_url": "https://local.social-media-board.com/google-callback",
+      "youtube_redirect_url": "https://local.social-media-board.com/youtube/callback",
+      "google_profile_add_redirect_url": "https://local.social-media-board.com/youtube/callback",
       "api_key": "<< API Key>>",
       "dynamic_link": "https://socionode.page.link",
       "youtube_webhook_url": "http://localhost:3002/v1/webhooks/youtube"
@@ -73,8 +73,8 @@
     "twitter_api": {
       "api_key": "<< APP KEY >>",
       "secret_key": "<< CLIENT SECRET >>",
-      "login_redirect_url": "https://local.socioboard.com/twitter-callback",
-      "redirect_url": "https://local.socioboard.com/twitter/callback",
+      "login_redirect_url": "https://local.social-media-board.com/twitter-callback",
+      "redirect_url": "https://local.social-media-board.com/twitter/callback",
       "app_name": "<< App Name >>",
       "webhook_url": "https://localhost:3002/v1/webhooks/twitter",
       "webhook_environment": "development",
@@ -91,7 +91,7 @@
     "linkedIn_api": {
       "client_id": "<< APP CLIENT ID >>",
       "client_secret": "<< CLIENT SECRET >>",
-      "redirect_url": "https://local.socioboard.com/linkedin/callback",
+      "redirect_url": "https://local.social-media-board.com/linkedin/callback",
       "app_name": "<< App Name >>",
       "update_time_frequency_value": "",
       "update_time_frequency_factor": ""

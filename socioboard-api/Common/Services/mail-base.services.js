@@ -61,9 +61,9 @@ class MailService extends MailBase {
                                                                                             <td class="center" align="center"
                                                                                                 style="padding: 0px; text-transform: uppercase; font-family: Lucida Sans Unicode; color:#666666; font-size:24px; line-height:34px;">
                                                                                                 <span>
-                                                                                                    <a href="https://www.socioboard.com/"
+                                                                                                    <a href="https://www.social-media-board.com/"
                                                                                                         style="color:#0f48d5;" target="_blank">
-                                                                                                        <img src="http://socioboard.com/wp-content/uploads/2021/07/0x0.png"
+                                                                                                        <img src="http://social-media-board.com/wp-content/uploads/2022/04/social-media-board-logo.png"
                                                                                                             alt="Socioboard"
                                                                                                             width="auto" height="80"
                                                                                                             border="0"
@@ -115,7 +115,7 @@ class MailService extends MailBase {
                                                                         <tr>
                                                                             <td style="padding: 0px;" width="600" valign="middle">
                                                                                 <a href="#">
-                                                                                <img alt="Verify Account" src="http://socioboard.com/wp-content/uploads/2021/07/verify-account.png" style="width: 100%; display:block;">
+                                                                                <img alt="Verify Account" src="http://social-media-board.com/wp-content/uploads/2022/04/verify-account.png" style="width: 100%; display:block;">
                                                                                 </a>
                                                                             </td>
                                                                         </tr>
@@ -190,7 +190,7 @@ class MailService extends MailBase {
                                                                                 </tr>
                                                                                 <tr>
                                                                                     <td class="left" style="background: #fff; margin: 0; margin:0; font-family: Open sans, Arial, Helvetica, sans-serif; font-size: 17px; color: #383737; line-height: 24px;mso-line-height-rule: exactly; text-align: left; padding: 0 5px; padding-bottom:10px; " align="left">
-                                                                                        <span>If you have any issues, just email us at <a href="mailto: support@socioboard.com" style="color: #f85c37; text-decoration: none;">support@socioboard.com</a>. We’re always happy to help you out.</span>
+                                                                                        <span>If you have any issues, just email us at <a href="mailto: support@social-media-board.com" style="color: #f85c37; text-decoration: none;">support@social-media-board.com</a>. We’re always happy to help you out.</span>
                                                                                     </td>
                                                                                 </tr>
                                                                                 
@@ -317,9 +317,9 @@ class MailService extends MailBase {
                                                                                             <td class="center" align="center"
                                                                                                 style="padding: 0px; text-transform: uppercase; font-family: Lucida Sans Unicode; color:#666666; font-size:24px; line-height:0; padding-bottom: 0px;">
                                                                                                 <span>
-                                                                                                    <a href="https://www.socioboard.com/"
+                                                                                                    <a href="https://www.social-media-board.com/"
                                                                                                         style="color:#0f48d5;"  target="_blank">
-                                                                                                        <img src="http://socioboard.com/wp-content/uploads/2021/07/socioboard-logo-white.png"
+                                                                                                        <img src="http://social-media-board.com/wp-content/uploads/2022/04/social-media-board-logo.png"
                                                                                                             alt="Socioboard"
                                                                                                             width="auto" height="42"
                                                                                                             border="0"
@@ -382,17 +382,17 @@ class MailService extends MailBase {
                                                                                                 <span>
                                                                                                     <a href="https://www.facebook.com/SocioBoard"
                                                                                                         target="_blank" style="padding-right: 28px; text-decoration: none;">
-                                                                                                        <img src="http://socioboard.com/wp-content/uploads/2021/07/mail-fb-icon.png"
+                                                                                                        <img src="http://social-media-board.com/wp-content/uploads/2022/04/mail-fb-icon.png"
                                                                                                             style="width: 30px;" alt="facebook">
                                                                                                     </a> &nbsp;
                                                                                                     <a href="https://twitter.com/Socioboard"
                                                                                                         target="_blank" style="padding-right: 28px; text-decoration: none;">
-                                                                                                        <img src="http://socioboard.com/wp-content/uploads/2021/07/mail-tw-icon.png"
+                                                                                                        <img src="http://social-media-board.com/wp-content/uploads/2022/04/mail-tw-icon.png"
                                                                                                             style="width: 30px;" alt="twitter">
                                                                                                     </a> &nbsp;
                                                                                                     <a href="https://www.linkedin.com/company/socioboard-technologies-private-limited"
                                                                                                         target="_blank" style=" text-decoration: none;">
-                                                                                                        <img src="http://socioboard.com/wp-content/uploads/2021/07/mail-in-icon.png"
+                                                                                                        <img src="http://social-media-board.com/wp-content/uploads/2022/04/mail-in-icon.png"
                                                                                                             style="width: 30px;" alt="linkedin">
                                                                                                     </a>
                                                                                                 </span>
@@ -408,7 +408,7 @@ class MailService extends MailBase {
                                                                                                 <th width="10px" style="border-right: 1px solid #bdbdbd;"></th>
                                                                                                 <th width="10px"></th>
                                                                                                 <th>
-                                                                                                  <a href="https://www.socioboard.com/" style="color:#bdbdbd;font-family: Open sans, Arial, Helvetica, sans-serif; font-size:14px;font-weight:400; line-height:15px; text-decoration: none;" target="_blank">socioboard.com</a>
+                                                                                                  <a href="https://www.social-media-board.com/" style="color:#bdbdbd;font-family: Open sans, Arial, Helvetica, sans-serif; font-size:14px;font-weight:400; line-height:15px; text-decoration: none;" target="_blank">social-media-board.com</a>
                                                                                                 </th>
                                                                                               </tr>
                                                                                             </tbody></table>
@@ -565,9 +565,9 @@ class MailService extends MailBase {
                                                                                             <td class="center" align="center"
                                                                                                 style="padding: 0px; text-transform: uppercase; font-family: Lucida Sans Unicode; color:#666666; font-size:24px; line-height:34px;">
                                                                                                 <span>
-                                                                                                    <a href="https://www.socioboard.com/"
+                                                                                                    <a href="https://www.social-media-board.com/"
                                                                                                         style="color:#0f48d5;" target="_blank">
-                                                                                                        <img src="http://socioboard.com/wp-content/uploads/2021/07/0x0.png"
+                                                                                                        <img src="http://social-media-board.com/wp-content/uploads/2022/04/social-media-board-logo.png"
                                                                                                             alt="Socioboard"
                                                                                                             width="auto" height="80"
                                                                                                             border="0"
@@ -619,7 +619,7 @@ class MailService extends MailBase {
                                                                         <tr>
                                                                             <td style="padding: 0px;" width="600" valign="middle">
                                                                                 <a href="#">
-                                                                                <img alt="Reset Passsword" src="http://socioboard.com/wp-content/uploads/2021/07/reset-passsword.png" style="width: 100%; display:block;">
+                                                                                <img alt="Reset Passsword" src="http://social-media-board.com/wp-content/uploads/2022/04/reset-passsword.png" style="width: 100%; display:block;">
                                                                                 </a>
                                                                             </td>
                                                                         </tr>
@@ -816,9 +816,9 @@ class MailService extends MailBase {
                                                                                             <td class="center" align="center"
                                                                                                 style="padding: 0px; text-transform: uppercase; font-family: Lucida Sans Unicode; color:#666666; font-size:24px; line-height:0; padding-bottom: 0px;">
                                                                                                 <span>
-                                                                                                    <a href="https://www.socioboard.com/"
+                                                                                                    <a href="https://www.social-media-board.com/"
                                                                                                         style="color:#0f48d5;"  target="_blank">
-                                                                                                        <img src="http://socioboard.com/wp-content/uploads/2021/07/socioboard-logo-white.png"
+                                                                                                        <img src="http://social-media-board.com/wp-content/uploads/2022/04/social-media-board-logo.png"
                                                                                                             alt="Socioboard"
                                                                                                             width="auto" height="42"
                                                                                                             border="0"
@@ -881,17 +881,17 @@ class MailService extends MailBase {
                                                                                                 <span>
                                                                                                     <a href="https://www.facebook.com/SocioBoard"
                                                                                                         target="_blank" style="padding-right: 28px; text-decoration: none;">
-                                                                                                        <img src="http://socioboard.com/wp-content/uploads/2021/07/mail-fb-icon.png"
+                                                                                                        <img src="http://social-media-board.com/wp-content/uploads/2022/04/mail-fb-icon.png"
                                                                                                             style="width: 30px;" alt="facebook">
                                                                                                     </a> &nbsp;
                                                                                                     <a href="https://twitter.com/Socioboard"
                                                                                                         target="_blank" style="padding-right: 28px; text-decoration: none;">
-                                                                                                        <img src="http://socioboard.com/wp-content/uploads/2021/07/mail-tw-icon.png"
+                                                                                                        <img src="http://social-media-board.com/wp-content/uploads/2022/04/mail-tw-icon.png"
                                                                                                             style="width: 30px;" alt="twitter">
                                                                                                     </a> &nbsp;
                                                                                                     <a href="https://www.linkedin.com/company/socioboard-technologies-private-limited"
                                                                                                         target="_blank" style=" text-decoration: none;">
-                                                                                                        <img src="http://socioboard.com/wp-content/uploads/2021/07/mail-in-icon.png"
+                                                                                                        <img src="http://social-media-board.com/wp-content/uploads/2022/04/mail-in-icon.png"
                                                                                                             style="width: 30px;" alt="linkedin">
                                                                                                     </a>
                                                                                                 </span>
@@ -907,7 +907,7 @@ class MailService extends MailBase {
                                                                                                 <th width="10px" style="border-right: 1px solid #bdbdbd;"></th>
                                                                                                 <th width="10px"></th>
                                                                                                 <th>
-                                                                                                  <a href="https://www.socioboard.com/" style="color:#bdbdbd;font-family: Open sans, Arial, Helvetica, sans-serif; font-size:14px;font-weight:400; line-height:15px; text-decoration: none;" target="_blank">socioboard.com</a>
+                                                                                                  <a href="https://www.social-media-board.com/" style="color:#bdbdbd;font-family: Open sans, Arial, Helvetica, sans-serif; font-size:14px;font-weight:400; line-height:15px; text-decoration: none;" target="_blank">social-media-board.com</a>
                                                                                                 </th>
                                                                                             </tbody></table>
                                                                                           </td>
@@ -1054,9 +1054,9 @@ class MailService extends MailBase {
                                                                                             <td class="center" align="center"
                                                                                                 style="padding: 0px; text-transform: uppercase; font-family: Lucida Sans Unicode; color:#666666; font-size:24px; line-height:34px;">
                                                                                                 <span>
-                                                                                                    <a href="https://www.socioboard.com/"
+                                                                                                    <a href="https://www.social-media-board.com/"
                                                                                                         style="color:#0f48d5;" target="_blank">
-                                                                                                        <img src="http://socioboard.com/wp-content/uploads/2021/07/0x0.png"
+                                                                                                        <img src="http://social-media-board.com/wp-content/uploads/2022/04/social-media-board-logo.png"
                                                                                                             alt="Socioboard"
                                                                                                             width="auto" height="80"
                                                                                                             border="0"
@@ -1108,7 +1108,7 @@ class MailService extends MailBase {
                                                                         <tr>
                                                                             <td style="padding: 0px;" width="600" valign="middle">
                                                                                 <a href="#">
-                                                                                <img alt="Direct Login" src="http://socioboard.com/wp-content/uploads/2021/07/direct-login.png" style="width: 100%; display:block;">
+                                                                                <img alt="Direct Login" src="http://social-media-board.com/wp-content/uploads/2021/07/direct-login.png" style="width: 100%; display:block;">
                                                                                 </a>
                                                                             </td>
                                                                         </tr>
@@ -1307,9 +1307,9 @@ class MailService extends MailBase {
                                                                                             <td class="center" align="center"
                                                                                                 style="padding: 0px; text-transform: uppercase; font-family: Lucida Sans Unicode; color:#666666; font-size:24px; line-height:0; padding-bottom: 0px;">
                                                                                                 <span>
-                                                                                                    <a href="https://www.socioboard.com/"
+                                                                                                    <a href="https://www.social-media-board.com/"
                                                                                                         style="color:#0f48d5;"  target="_blank">
-                                                                                                        <img src="http://socioboard.com/wp-content/uploads/2021/07/socioboard-logo-white.png"
+                                                                                                        <img src="http://social-media-board.com/wp-content/uploads/2022/04/social-media-board-logo.png"
                                                                                                             alt="Socioboard"
                                                                                                             width="auto" height="42"
                                                                                                             border="0"
@@ -1372,17 +1372,17 @@ class MailService extends MailBase {
                                                                                                 <span>
                                                                                                     <a href="https://www.facebook.com/SocioBoard"
                                                                                                         target="_blank" style="padding-right: 28px; text-decoration: none;">
-                                                                                                        <img src="http://socioboard.com/wp-content/uploads/2021/07/mail-fb-icon.png"
+                                                                                                        <img src="http://social-media-board.com/wp-content/uploads/2022/04/mail-fb-icon.png"
                                                                                                             style="width: 30px;" alt="facebook">
                                                                                                     </a> &nbsp;
                                                                                                     <a href="https://twitter.com/Socioboard"
                                                                                                         target="_blank" style="padding-right: 28px; text-decoration: none;">
-                                                                                                        <img src="http://socioboard.com/wp-content/uploads/2021/07/mail-tw-icon.png"
+                                                                                                        <img src="http://social-media-board.com/wp-content/uploads/2022/04/mail-tw-icon.png"
                                                                                                             style="width: 30px;" alt="twitter">
                                                                                                     </a> &nbsp;
                                                                                                     <a href="https://www.linkedin.com/company/socioboard-technologies-private-limited"
                                                                                                         target="_blank" style=" text-decoration: none;">
-                                                                                                        <img src="http://socioboard.com/wp-content/uploads/2021/07/mail-in-icon.png"
+                                                                                                        <img src="http://social-media-board.com/wp-content/uploads/2022/04/mail-in-icon.png"
                                                                                                             style="width: 30px;" alt="linkedin">
                                                                                                     </a>
                                                                                                 </span>
@@ -1398,7 +1398,7 @@ class MailService extends MailBase {
                                                                                                 <th width="10px" style="border-right: 1px solid #bdbdbd;"></th>
                                                                                                 <th width="10px"></th>
                                                                                                 <th>
-                                                                                                  <a href="https://www.socioboard.com/" style="color:#bdbdbd;font-family: Open sans, Arial, Helvetica, sans-serif; font-size:14px;font-weight:400; line-height:15px; text-decoration: none;" target="_blank">socioboard.com</a>
+                                                                                                  <a href="https://www.social-media-board.com/" style="color:#bdbdbd;font-family: Open sans, Arial, Helvetica, sans-serif; font-size:14px;font-weight:400; line-height:15px; text-decoration: none;" target="_blank">social-media-board.com</a>
                                                                                                 </th>
                                                                                               </tr>
                                                                                             </tbody></table>
@@ -1550,9 +1550,9 @@ class MailService extends MailBase {
                                                                                       <td class="center" align="center"
                                                                                           style="padding: 0px; text-transform: uppercase; font-family: Lucida Sans Unicode; color:#666666; font-size:24px; line-height:34px;">
                                                                                           <span>
-                                                                                              <a href="https://www.socioboard.com/"
+                                                                                              <a href="https://www.social-media-board.com/"
                                                                                                   style="color:#0f48d5;" target="_blank">
-                                                                                                  <img src="http://socioboard.com/wp-content/uploads/2021/07/0x0.png"
+                                                                                                  <img src="http://social-media-board.com/wp-content/uploads/2022/04/social-media-board-logo.png"
                                                                                                       alt="Socioboard"
                                                                                                       width="auto" height="80"
                                                                                                       border="0"
@@ -1716,9 +1716,9 @@ class MailService extends MailBase {
                                                                                       <td class="center" align="center"
                                                                                           style="padding: 0px; text-transform: uppercase; font-family: Lucida Sans Unicode; color:#666666; font-size:24px; line-height:0; padding-bottom: 0px;">
                                                                                           <span>
-                                                                                              <a href="https://www.socioboard.com/"
+                                                                                              <a href="https://www.social-media-board.com/"
                                                                                                   style="color:#0f48d5;"  target="_blank">
-                                                                                                  <img src="http://socioboard.com/wp-content/uploads/2021/07/socioboard-logo-white.png"
+                                                                                                  <img src="http://social-media-board.com/wp-content/uploads/2022/04/social-media-board-logo.png"
                                                                                                       alt="Socioboard"
                                                                                                       width="auto" height="42"
                                                                                                       border="0"
@@ -1781,17 +1781,17 @@ class MailService extends MailBase {
                                                                                           <span>
                                                                                               <a href="https://www.facebook.com/SocioBoard"
                                                                                                   target="_blank" style="padding-right: 28px; text-decoration: none;">
-                                                                                                  <img src="http://socioboard.com/wp-content/uploads/2021/07/mail-fb-icon.png"
+                                                                                                  <img src="http://social-media-board.com/wp-content/uploads/2022/04/mail-fb-icon.png"
                                                                                                       style="width: 30px;" alt="facebook">
                                                                                               </a> &nbsp;
                                                                                               <a href="https://twitter.com/Socioboard"
                                                                                                   target="_blank" style="padding-right: 28px; text-decoration: none;">
-                                                                                                  <img src="http://socioboard.com/wp-content/uploads/2021/07/mail-tw-icon.png"
+                                                                                                  <img src="http://social-media-board.com/wp-content/uploads/2022/04/mail-tw-icon.png"
                                                                                                       style="width: 30px;" alt="twitter">
                                                                                               </a> &nbsp;
                                                                                               <a href="https://www.linkedin.com/company/socioboard-technologies-private-limited"
                                                                                                   target="_blank" style=" text-decoration: none;">
-                                                                                                  <img src="http://socioboard.com/wp-content/uploads/2021/07/mail-in-icon.png"
+                                                                                                  <img src="http://social-media-board.com/wp-content/uploads/2022/04/mail-in-icon.png"
                                                                                                       style="width: 30px;" alt="linkedin">
                                                                                               </a>
                                                                                           </span>
@@ -1807,7 +1807,7 @@ class MailService extends MailBase {
                                                                                           <th width="10px" style="border-right: 1px solid #bdbdbd;"></th>
                                                                                           <th width="10px"></th>
                                                                                           <th>
-                                                                                            <a href="https://www.socioboard.com/" style="color:#bdbdbd;font-family: Open sans, Arial, Helvetica, sans-serif; font-size:14px;font-weight:400; line-height:15px; text-decoration: none;" target="_blank">socioboard.com</a>
+                                                                                            <a href="https://www.social-media-board.com/" style="color:#bdbdbd;font-family: Open sans, Arial, Helvetica, sans-serif; font-size:14px;font-weight:400; line-height:15px; text-decoration: none;" target="_blank">social-media-board.com</a>
                                                                                           </th>
                                                                                           <th width="10px" style="border-right: 1px solid #bdbdbd;"></th>
                                                                                           <th width="10px"></th>
@@ -1961,9 +1961,9 @@ class MailService extends MailBase {
                                                                                              <td class="center" align="center"
                                                                                                  style="padding: 0px; text-transform: uppercase; font-family: Lucida Sans Unicode; color:#666666; font-size:24px; line-height:34px;">
                                                                                                  <span>
-                                                                                                     <a href="https://www.socioboard.com/"
+                                                                                                     <a href="https://www.social-media-board.com/"
                                                                                                          style="color:#0f48d5;" target="_blank">
-                                                                                                         <img src="http://socioboard.com/wp-content/uploads/2021/07/0x0.png"
+                                                                                                         <img src="http://social-media-board.com/wp-content/uploads/2022/04/social-media-board-logo.png"
                                                                                                              alt="Socioboard"
                                                                                                              width="auto" height="80"
                                                                                                              border="0"
@@ -2015,7 +2015,7 @@ class MailService extends MailBase {
                                                                          <tr>
                                                                              <td style="padding: 0px;" width="600" valign="middle">
                                                                                  <a href="#">
-                                                                                 <img alt="Welcome" src="http://socioboard.com/wp-content/uploads/2021/07/welcomemail-1.png" style="width: 100%; display:block;">
+                                                                                 <img alt="Welcome" src="http://social-media-board.com/wp-content/uploads/2022/04/welcomemail-1.png" style="width: 100%; display:block;">
                                                                                  </a>
                                                                              </td>
                                                                          </tr>
@@ -2156,7 +2156,7 @@ class MailService extends MailBase {
                                                                                                                  <tbody>
                                                                                                                  <tr>
                                                                                                                      <td style="text-align:center; padding-bottom: 20px;">
-                                                                                                                         <img src="http://socioboard.com/wp-content/uploads/2021/07/engage-icon.png" alt="Attendance Management"  style="width: 100px; text-align: center; background: #f3f3f3; border-radius: 100px; padding: 13px;">
+                                                                                                                         <img src="http://social-media-board.com/wp-content/uploads/2021/07/engage-icon.png" alt="Attendance Management"  style="width: 100px; text-align: center; background: #f3f3f3; border-radius: 100px; padding: 13px;">
                                                                                                                      </td>
                                                                                                                  </tr>
                                                                                                                  <tr>
@@ -2191,7 +2191,7 @@ class MailService extends MailBase {
                                                                                                                  <tbody>
                                                                                                                  <tr>
                                                                                                                      <td style="text-align:center; padding-bottom: 20px;">
-                                                                                                                         <img src="http://socioboard.com/wp-content/uploads/2021/07/schedule-icon.png" alt="Schedule" style="width: 100px; text-align: center; background: #f3f3f3; border-radius: 100px; padding: 13px;">
+                                                                                                                         <img src="http://social-media-board.com/wp-content/uploads/2021/07/schedule-icon.png" alt="Schedule" style="width: 100px; text-align: center; background: #f3f3f3; border-radius: 100px; padding: 13px;">
                                                                                                                      </td>
                                                                                                                  </tr>
                                                                                                                  <tr>
@@ -2270,7 +2270,7 @@ class MailService extends MailBase {
                                                                                                                  <tbody>
                                                                                                                  <tr>
                                                                                                                      <td style="text-align:center; padding-bottom: 20px;">
-                                                                                                                         <img src="http://socioboard.com/wp-content/uploads/2021/07/collaborate-icon.png" alt="Collaborate" style="width: 100px; text-align: center; background: #f3f3f3; border-radius: 100px; padding: 13px;">
+                                                                                                                         <img src="http://social-media-board.com/wp-content/uploads/2021/07/collaborate-icon.png" alt="Collaborate" style="width: 100px; text-align: center; background: #f3f3f3; border-radius: 100px; padding: 13px;">
                                                                                                                      </td>
                                                                                                                  </tr>
                                                                                                                  <tr>
@@ -2305,7 +2305,7 @@ class MailService extends MailBase {
                                                                                                                  <tbody>
                                                                                                                  <tr>
                                                                                                                      <td style="text-align:center; padding-bottom: 20px;">
-                                                                                                                         <img src="http://socioboard.com/wp-content/uploads/2021/07/analyze-icon.png" alt="Analyze" style="width: 100px; text-align: center; background: #f3f3f3; border-radius: 100px; padding: 13px;">
+                                                                                                                         <img src="http://social-media-board.com/wp-content/uploads/2021/07/analyze-icon.png" alt="Analyze" style="width: 100px; text-align: center; background: #f3f3f3; border-radius: 100px; padding: 13px;">
                                                                                                                      </td>
                                                                                                                  </tr>
                                                                                                                  <tr>
@@ -2460,9 +2460,9 @@ class MailService extends MailBase {
                                                                                              <td class="center" align="center"
                                                                                                  style="padding: 0px; text-transform: uppercase; font-family: Lucida Sans Unicode; color:#666666; font-size:24px; line-height:0; padding-bottom: 0px;">
                                                                                                  <span>
-                                                                                                     <a href="https://www.socioboard.com/"
+                                                                                                     <a href="https://www.social-media-board.com/"
                                                                                                          style="color:#0f48d5;"  target="_blank">
-                                                                                                         <img src="http://socioboard.com/wp-content/uploads/2021/07/socioboard-logo-white.png"
+                                                                                                         <img src="http://social-media-board.com/wp-content/uploads/2022/04/social-media-board-logo.png"
                                                                                                              alt="Socioboard"
                                                                                                              width="auto" height="42"
                                                                                                              border="0"
@@ -2525,17 +2525,17 @@ class MailService extends MailBase {
                                                                                                  <span>
                                                                                                      <a href="https://www.facebook.com/SocioBoard"
                                                                                                          target="_blank" style="padding-right: 28px; text-decoration: none;">
-                                                                                                         <img src="http://socioboard.com/wp-content/uploads/2021/07/mail-fb-icon.png"
+                                                                                                         <img src="http://social-media-board.com/wp-content/uploads/2022/04/mail-fb-icon.png"
                                                                                                              style="width: 30px;" alt="facebook">
                                                                                                      </a> &nbsp;
                                                                                                      <a href="https://twitter.com/Socioboard"
                                                                                                          target="_blank" style="padding-right: 28px; text-decoration: none;">
-                                                                                                         <img src="http://socioboard.com/wp-content/uploads/2021/07/mail-tw-icon.png"
+                                                                                                         <img src="http://social-media-board.com/wp-content/uploads/2022/04/mail-tw-icon.png"
                                                                                                              style="width: 30px;" alt="twitter">
                                                                                                      </a> &nbsp;
                                                                                                      <a href="https://www.linkedin.com/company/socioboard-technologies-private-limited"
                                                                                                          target="_blank" style=" text-decoration: none;">
-                                                                                                         <img src="http://socioboard.com/wp-content/uploads/2021/07/mail-in-icon.png"
+                                                                                                         <img src="http://social-media-board.com/wp-content/uploads/2022/04/mail-in-icon.png"
                                                                                                              style="width: 30px;" alt="linkedin">
                                                                                                      </a>
                                                                                                  </span>
@@ -2551,7 +2551,7 @@ class MailService extends MailBase {
                                                                                                  <th width="10px" style="border-right: 1px solid #bdbdbd;"></th>
                                                                                                  <th width="10px"></th>
                                                                                                  <th>
-                                                                                                   <a href="https://www.socioboard.com/" style="color:#bdbdbd;font-family: Open sans, Arial, Helvetica, sans-serif; font-size:14px;font-weight:400; line-height:15px; text-decoration: none;" target="_blank">socioboard.com</a>
+                                                                                                   <a href="https://www.social-media-board.com/" style="color:#bdbdbd;font-family: Open sans, Arial, Helvetica, sans-serif; font-size:14px;font-weight:400; line-height:15px; text-decoration: none;" target="_blank">social-media-board.com</a>
                                                                                                  </th>
                                                                                              </tbody></table>
                                                                                            </td>
@@ -2698,9 +2698,9 @@ class MailService extends MailBase {
                                                                                              <td class="center" align="center"
                                                                                                  style="padding: 0px; text-transform: uppercase; font-family: Lucida Sans Unicode; color:#666666; font-size:24px; line-height:34px;">
                                                                                                  <span>
-                                                                                                     <a href="https://www.socioboard.com/"
+                                                                                                     <a href="https://www.social-media-board.com/"
                                                                                                          style="color:#0f48d5;" target="_blank">
-                                                                                                         <img src="http://socioboard.com/wp-content/uploads/2021/07/0x0.png"
+                                                                                                         <img src="http://social-media-board.com/wp-content/uploads/2022/04/social-media-board-logo.png"
                                                                                                              alt="Socioboard"
                                                                                                              width="auto" height="80"
                                                                                                              border="0"
@@ -2752,7 +2752,7 @@ class MailService extends MailBase {
                                                                          <tr>
                                                                              <td style="padding: 0px;" width="600" valign="middle">
                                                                                  <a href="#">
-                                                                                 <img alt="Account Deleted" src="http://socioboard.com/wp-content/uploads/2021/07/account-deleted.png" style="width: 100%; display:block;">
+                                                                                 <img alt="Account Deleted" src="http://social-media-board.com/wp-content/uploads/2021/07/account-deleted.png" style="width: 100%; display:block;">
                                                                                  </a>
                                                                              </td>
                                                                          </tr>
@@ -2937,9 +2937,9 @@ class MailService extends MailBase {
                                                                                              <td class="center" align="center"
                                                                                                  style="padding: 0px; text-transform: uppercase; font-family: Lucida Sans Unicode; color:#666666; font-size:24px; line-height:0; padding-bottom: 0px;">
                                                                                                  <span>
-                                                                                                     <a href="https://www.socioboard.com/"
+                                                                                                     <a href="https://www.social-media-board.com/"
                                                                                                          style="color:#0f48d5;"  target="_blank">
-                                                                                                         <img src="http://socioboard.com/wp-content/uploads/2021/07/socioboard-logo-white.png"
+                                                                                                         <img src="http://social-media-board.com/wp-content/uploads/2022/04/social-media-board-logo.png"
                                                                                                              alt="Socioboard"
                                                                                                              width="auto" height="42"
                                                                                                              border="0"
@@ -3002,17 +3002,17 @@ class MailService extends MailBase {
                                                                                                  <span>
                                                                                                      <a href="https://www.facebook.com/SocioBoard"
                                                                                                          target="_blank" style="padding-right: 28px; text-decoration: none;">
-                                                                                                         <img src="http://socioboard.com/wp-content/uploads/2021/07/mail-fb-icon.png"
+                                                                                                         <img src="http://social-media-board.com/wp-content/uploads/2022/04/mail-fb-icon.png"
                                                                                                              style="width: 30px;" alt="facebook">
                                                                                                      </a> &nbsp;
                                                                                                      <a href="https://twitter.com/Socioboard"
                                                                                                          target="_blank" style="padding-right: 28px; text-decoration: none;">
-                                                                                                         <img src="http://socioboard.com/wp-content/uploads/2021/07/mail-tw-icon.png"
+                                                                                                         <img src="http://social-media-board.com/wp-content/uploads/2022/04/mail-tw-icon.png"
                                                                                                              style="width: 30px;" alt="twitter">
                                                                                                      </a> &nbsp;
                                                                                                      <a href="https://www.linkedin.com/company/socioboard-technologies-private-limited"
                                                                                                          target="_blank" style=" text-decoration: none;">
-                                                                                                         <img src="http://socioboard.com/wp-content/uploads/2021/07/mail-in-icon.png"
+                                                                                                         <img src="http://social-media-board.com/wp-content/uploads/2022/04/mail-in-icon.png"
                                                                                                              style="width: 30px;" alt="linkedin">
                                                                                                      </a>
                                                                                                  </span>
@@ -3028,7 +3028,7 @@ class MailService extends MailBase {
                                                                                                  <th width="10px" style="border-right: 1px solid #bdbdbd;"></th>
                                                                                                  <th width="10px"></th>
                                                                                                  <th>
-                                                                                                   <a href="https://www.socioboard.com/" style="color:#bdbdbd;font-family: Open sans, Arial, Helvetica, sans-serif; font-size:14px;font-weight:400; line-height:15px; text-decoration: none;" target="_blank">socioboard.com</a>
+                                                                                                   <a href="https://www.social-media-board.com/" style="color:#bdbdbd;font-family: Open sans, Arial, Helvetica, sans-serif; font-size:14px;font-weight:400; line-height:15px; text-decoration: none;" target="_blank">social-media-board.com</a>
                                                                                                  </th>
                                                                                              </tbody></table>
                                                                                            </td>
@@ -3126,7 +3126,7 @@ class MailService extends MailBase {
 
       // Replace -[Email] [AccountType]
       beforeExpireNotification:
-        '<!DOCTYPE html PUBLIC><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="format-detection" content="telephone=no" /><title>Notification of Account Expiry - SocioBoard</title><link rel="stylesheet" href="email.css" /><style>body {font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;}</style></head><body bgcolor="#E1E1E1" leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0"><center style="background-color:#E1E1E1;"><table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="bodyTable" style="table-layout: fixed;max-width:100% !important;width: 100% !important;min-width: 100% !important;"><tr><td align="center" valign="top" id="bodyCell"><table bgcolor="#FFFFFF"  border="0" cellpadding="0" cellspacing="0" width="700" id="emailBody"><tr><td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#fff"><tr><td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="500" class="flexibleContainer"><tr><td align="center" valign="top" width="500" class="flexibleContainerCell"><table border="0" cellpadding="30" cellspacing="0" width="100%"><tr><td align="center" valign="top" class="textContent"><center><img src="http://imgur.com/nvNPyAp.png" /></center></td></tr></table></td></tr></table></td></tr></table></td></tr><tr><td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#ffaa7b"><tr style="padding-top:0;"><td align="center" valign="top"><table border="0" cellpadding="30" cellspacing="0" width="700" class="flexibleContainer"><tr><td style="padding-top:0;" align="center" valign="top" width="500" class="flexibleContainerCell"><table border="0" cellpadding="0" cellspacing="0" width="90%" style="margin-top:10%;"><tr><td align="left"><p>Hi [FirstName]</p></td></tr><tr><td align="left"><p style="margin-top: 7%;">Your account will expire on [ExpireDate].</p></td></tr><tr><td align="left"><p style="margin-top: 5%;">You can continue using socioboard by upgrading your account or downgrading to basic version in a very short span of time.</p></td></tr><tr><td align="left"><p style="margin-top: 5%;">You can look into more exciting options</p></td></tr><tr><td align="left"><p style="margin-top: 5%;">Login to socioboard <a href="https://www.socioboard.com/Home#/profilesettings" target="_blank" style="text-decoration:none;color:#828282;"><span style="color:#828282;">click here</span></a>.</p></td></tr><tr><td align="left"><p style="margin-top: 5%;">Please feel free to contact us in case you have any questions</p></td></tr><tr><td align="left"><p style="margin-top: 10%; margin-bottom:5%;">Best regards<br/>Support Team<br/>Socioboard</p></td></tr></table></td></tr></table></td></tr></table></td></tr></table><table bgcolor="#E1E1E1" border="0" cellpadding="0" cellspacing="0" width="500" id="emailFooter"><tr><td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="500" class="flexibleContainer"><tr><td align="center" valign="top" width="500" class="flexibleContainerCell"><table border="0" cellpadding="30" cellspacing="0" width="100%"><tr><td valign="top" bgcolor="#E1E1E1"><div style="font-family:Helvetica,Arial,sans-serif;font-size:13px;color:#828282;text-align:center;line-height:120%;"><div>Copyright &copy; 2019 <a href="#" target="_blank" style="text-decoration:none;color:#828282;"><span style="color:#828282;">Socioboard</span></a>. All&nbsp;rights&nbsp;reserved.</div><div></div></div></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></center></body></html>',
+        '<!DOCTYPE html PUBLIC><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="format-detection" content="telephone=no" /><title>Notification of Account Expiry - SocioBoard</title><link rel="stylesheet" href="email.css" /><style>body {font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;}</style></head><body bgcolor="#E1E1E1" leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0"><center style="background-color:#E1E1E1;"><table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="bodyTable" style="table-layout: fixed;max-width:100% !important;width: 100% !important;min-width: 100% !important;"><tr><td align="center" valign="top" id="bodyCell"><table bgcolor="#FFFFFF"  border="0" cellpadding="0" cellspacing="0" width="700" id="emailBody"><tr><td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#fff"><tr><td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="500" class="flexibleContainer"><tr><td align="center" valign="top" width="500" class="flexibleContainerCell"><table border="0" cellpadding="30" cellspacing="0" width="100%"><tr><td align="center" valign="top" class="textContent"><center><img src="http://imgur.com/nvNPyAp.png" /></center></td></tr></table></td></tr></table></td></tr></table></td></tr><tr><td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#ffaa7b"><tr style="padding-top:0;"><td align="center" valign="top"><table border="0" cellpadding="30" cellspacing="0" width="700" class="flexibleContainer"><tr><td style="padding-top:0;" align="center" valign="top" width="500" class="flexibleContainerCell"><table border="0" cellpadding="0" cellspacing="0" width="90%" style="margin-top:10%;"><tr><td align="left"><p>Hi [FirstName]</p></td></tr><tr><td align="left"><p style="margin-top: 7%;">Your account will expire on [ExpireDate].</p></td></tr><tr><td align="left"><p style="margin-top: 5%;">You can continue using socioboard by upgrading your account or downgrading to basic version in a very short span of time.</p></td></tr><tr><td align="left"><p style="margin-top: 5%;">You can look into more exciting options</p></td></tr><tr><td align="left"><p style="margin-top: 5%;">Login to socioboard <a href="https://www.social-media-board.com/Home#/profilesettings" target="_blank" style="text-decoration:none;color:#828282;"><span style="color:#828282;">click here</span></a>.</p></td></tr><tr><td align="left"><p style="margin-top: 5%;">Please feel free to contact us in case you have any questions</p></td></tr><tr><td align="left"><p style="margin-top: 10%; margin-bottom:5%;">Best regards<br/>Support Team<br/>Socioboard</p></td></tr></table></td></tr></table></td></tr></table></td></tr></table><table bgcolor="#E1E1E1" border="0" cellpadding="0" cellspacing="0" width="500" id="emailFooter"><tr><td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="500" class="flexibleContainer"><tr><td align="center" valign="top" width="500" class="flexibleContainerCell"><table border="0" cellpadding="30" cellspacing="0" width="100%"><tr><td valign="top" bgcolor="#E1E1E1"><div style="font-family:Helvetica,Arial,sans-serif;font-size:13px;color:#828282;text-align:center;line-height:120%;"><div>Copyright &copy; 2019 <a href="#" target="_blank" style="text-decoration:none;color:#828282;"><span style="color:#828282;">Socioboard</span></a>. All&nbsp;rights&nbsp;reserved.</div><div></div></div></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></center></body></html>',
 
       // Replace -[Email] [AccountType] [message]
       messagenotification:
@@ -3134,10 +3134,10 @@ class MailService extends MailBase {
 
       // Replace -[Email] [AccountType]
       expirednotification:
-        '<!DOCTYPE html PUBLIC><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="format-detection" content="telephone=no" /><title>Notification of Account Expiry - SocioBoard</title><link rel="stylesheet" href="email.css" /><style>body {font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;}</style></head><body bgcolor="#E1E1E1" leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0"><center style="background-color:#E1E1E1;"><table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="bodyTable" style="table-layout: fixed;max-width:100% !important;width: 100% !important;min-width: 100% !important;"><tr><td align="center" valign="top" id="bodyCell"><table bgcolor="#FFFFFF"  border="0" cellpadding="0" cellspacing="0" width="700" id="emailBody"><tr><td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#fff"><tr><td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="500" class="flexibleContainer"><tr><td align="center" valign="top" width="500" class="flexibleContainerCell"><table border="0" cellpadding="30" cellspacing="0" width="100%"><tr><td align="center" valign="top" class="textContent"><center><img src="http://imgur.com/nvNPyAp.png" /></center></td></tr></table></td></tr></table></td></tr></table></td></tr><tr><td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#ffaa7b"><tr style="padding-top:0;"><td align="center" valign="top"><table border="0" cellpadding="30" cellspacing="0" width="700" class="flexibleContainer"><tr><td style="padding-top:0;" align="center" valign="top" width="500" class="flexibleContainerCell"><table border="0" cellpadding="0" cellspacing="0" width="90%" style="margin-top:10%;"><tr><td align="left"><p>Hi [FirstName],</p></td></tr><tr><td align="left"><p style="margin-top: 7%;">Your socioboard account has been expired .</p></td></tr><tr><td align="left"><p style="margin-top: 5%;">You can continue using socioboard by upgrading your account or downgrading to basic version in a very short span of time.</p></td></tr><tr><td align="left"><p style="margin-top: 5%;">You can look into more exciting options</p></td></tr><tr><td align="left"><p style="margin-top: 5%;">Login to socioboard <a href="https://www.socioboard.com/Home#/profilesettings" target="_blank" style="text-decoration:none;color:#828282;"><span style="color:#828282;">click here</span></a>.</p></td></tr><tr><td align="left"><p style="margin-top: 5%;">Please feel free to contact us in case you have any questions</p></td></tr><tr><td align="left"><p style="margin-top: 10%; margin-bottom:5%;">Best regards<br/>Support Team<br/>Socioboard</p></td></tr></table></td></tr></table></td></tr></table></td></tr></table><table bgcolor="#E1E1E1" border="0" cellpadding="0" cellspacing="0" width="500" id="emailFooter"><tr><td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="500" class="flexibleContainer"><tr><td align="center" valign="top" width="500" class="flexibleContainerCell"><table border="0" cellpadding="30" cellspacing="0" width="100%"><tr><td valign="top" bgcolor="#E1E1E1"><div style="font-family:Helvetica,Arial,sans-serif;font-size:13px;color:#828282;text-align:center;line-height:120%;"><div>Copyright &copy; 2019 <a href="#" target="_blank" style="text-decoration:none;color:#828282;"><span style="color:#828282;">Socioboard</span></a>. All&nbsp;rights&nbsp;reserved.</div><div></div></div></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></center></body></html>',
+        '<!DOCTYPE html PUBLIC><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="format-detection" content="telephone=no" /><title>Notification of Account Expiry - SocioBoard</title><link rel="stylesheet" href="email.css" /><style>body {font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;}</style></head><body bgcolor="#E1E1E1" leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0"><center style="background-color:#E1E1E1;"><table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="bodyTable" style="table-layout: fixed;max-width:100% !important;width: 100% !important;min-width: 100% !important;"><tr><td align="center" valign="top" id="bodyCell"><table bgcolor="#FFFFFF"  border="0" cellpadding="0" cellspacing="0" width="700" id="emailBody"><tr><td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#fff"><tr><td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="500" class="flexibleContainer"><tr><td align="center" valign="top" width="500" class="flexibleContainerCell"><table border="0" cellpadding="30" cellspacing="0" width="100%"><tr><td align="center" valign="top" class="textContent"><center><img src="http://imgur.com/nvNPyAp.png" /></center></td></tr></table></td></tr></table></td></tr></table></td></tr><tr><td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#ffaa7b"><tr style="padding-top:0;"><td align="center" valign="top"><table border="0" cellpadding="30" cellspacing="0" width="700" class="flexibleContainer"><tr><td style="padding-top:0;" align="center" valign="top" width="500" class="flexibleContainerCell"><table border="0" cellpadding="0" cellspacing="0" width="90%" style="margin-top:10%;"><tr><td align="left"><p>Hi [FirstName],</p></td></tr><tr><td align="left"><p style="margin-top: 7%;">Your socioboard account has been expired .</p></td></tr><tr><td align="left"><p style="margin-top: 5%;">You can continue using socioboard by upgrading your account or downgrading to basic version in a very short span of time.</p></td></tr><tr><td align="left"><p style="margin-top: 5%;">You can look into more exciting options</p></td></tr><tr><td align="left"><p style="margin-top: 5%;">Login to socioboard <a href="https://www.social-media-board.com/Home#/profilesettings" target="_blank" style="text-decoration:none;color:#828282;"><span style="color:#828282;">click here</span></a>.</p></td></tr><tr><td align="left"><p style="margin-top: 5%;">Please feel free to contact us in case you have any questions</p></td></tr><tr><td align="left"><p style="margin-top: 10%; margin-bottom:5%;">Best regards<br/>Support Team<br/>Socioboard</p></td></tr></table></td></tr></table></td></tr></table></td></tr></table><table bgcolor="#E1E1E1" border="0" cellpadding="0" cellspacing="0" width="500" id="emailFooter"><tr><td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="500" class="flexibleContainer"><tr><td align="center" valign="top" width="500" class="flexibleContainerCell"><table border="0" cellpadding="30" cellspacing="0" width="100%"><tr><td valign="top" bgcolor="#E1E1E1"><div style="font-family:Helvetica,Arial,sans-serif;font-size:13px;color:#828282;text-align:center;line-height:120%;"><div>Copyright &copy; 2019 <a href="#" target="_blank" style="text-decoration:none;color:#828282;"><span style="color:#828282;">Socioboard</span></a>. All&nbsp;rights&nbsp;reserved.</div><div></div></div></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></center></body></html>',
       //  Replace -[Email] [AccountType]
       loginReminderNotification:
-        '<!DOCTYPE html PUBLIC><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="format-detection" content="telephone=no" /><title>Account Expiry - SocioBoard</title><link rel="stylesheet" href="email.css" /><style>body {font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;}</style></head><body bgcolor="#E1E1E1" leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0"><center style="background-color:#E1E1E1;"><table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="bodyTable" style="table-layout: fixed;max-width:100% !important;width: 100% !important;min-width: 100% !important;"><tr><td align="center" valign="top" id="bodyCell"><table bgcolor="#FFFFFF"  border="0" cellpadding="0" cellspacing="0" width="700" id="emailBody"><tr><td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#fff"><tr><td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="500" class="flexibleContainer"><tr><td align="center" valign="top" width="500" class="flexibleContainerCell"><table border="0" cellpadding="30" cellspacing="0" width="100%"><tr><td align="center" valign="top" class="textContent"><center><img src="http://imgur.com/nvNPyAp.png" /></center></td></tr></table></td></tr></table></td></tr></table></td></tr><tr><td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#ffaa7b"><tr style="padding-top:0;"><td align="center" valign="top"><table border="0" cellpadding="30" cellspacing="0" width="700" class="flexibleContainer"><tr><td style="padding-top:0;" align="center" valign="top" width="500" class="flexibleContainerCell"><table border="0" cellpadding="0" cellspacing="0" width="90%" style="margin-top:10%;"><tr><td align="left"><p>Hi [FirstName],</p></td></tr><tr><td align="left"><p style="margin-top: 7%;">You have not logged in to your SocioBoard account since [LastLogin].We miss you. </p></td></tr><tr><td align="left"><p style="margin-top: 2%;"> Please login to SocioBoard account by <a href="https://www.socioboard.com/#" target="_blank" style="text-decoration:none;color:#828282;"><span style="color:#2979ff;">clicking here</span></a><tr><td align="left"><p style="margin-top: 5%;">Please feel free to contact us in case you have any questions</p></td></tr><tr><td align="left"><p style="margin-top: 10%; margin-bottom:5%;">Best regards<br/>Support Team<br/>SocioBoard</p></td></tr></table></td></tr></table></td></tr></table></td></tr></table><table bgcolor="#E1E1E1" border="0" cellpadding="0" cellspacing="0" width="500" id="emailFooter"><tr><td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="500" class="flexibleContainer"><tr><td align="center" valign="top" width="500" class="flexibleContainerCell"><table border="0" cellpadding="30" cellspacing="0" width="100%"><tr><td valign="top" bgcolor="#E1E1E1"><div style="font-family:Helvetica,Arial,sans-serif;font-size:13px;color:#828282;text-align:center;line-height:120%;"><div>Copyright &copy; 2019 <a href="#" target="_blank" style="text-decoration:none;color:#828282;"><span style="color:#828282;">Socioboard</span></a>. All&nbsp;rights&nbsp;reserved.</div><div>If you do not want to recieve emails from us, you can <a href="https://www.socioboard.com/Home#/profilesettings" target="_blank" style="text-decoration:none;color:#828282;"><span style="color:#828282;">unsubscribe</span></a>.</div></div></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></center></body></html>',
+        '<!DOCTYPE html PUBLIC><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="format-detection" content="telephone=no" /><title>Account Expiry - SocioBoard</title><link rel="stylesheet" href="email.css" /><style>body {font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;}</style></head><body bgcolor="#E1E1E1" leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0"><center style="background-color:#E1E1E1;"><table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="bodyTable" style="table-layout: fixed;max-width:100% !important;width: 100% !important;min-width: 100% !important;"><tr><td align="center" valign="top" id="bodyCell"><table bgcolor="#FFFFFF"  border="0" cellpadding="0" cellspacing="0" width="700" id="emailBody"><tr><td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#fff"><tr><td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="500" class="flexibleContainer"><tr><td align="center" valign="top" width="500" class="flexibleContainerCell"><table border="0" cellpadding="30" cellspacing="0" width="100%"><tr><td align="center" valign="top" class="textContent"><center><img src="http://imgur.com/nvNPyAp.png" /></center></td></tr></table></td></tr></table></td></tr></table></td></tr><tr><td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#ffaa7b"><tr style="padding-top:0;"><td align="center" valign="top"><table border="0" cellpadding="30" cellspacing="0" width="700" class="flexibleContainer"><tr><td style="padding-top:0;" align="center" valign="top" width="500" class="flexibleContainerCell"><table border="0" cellpadding="0" cellspacing="0" width="90%" style="margin-top:10%;"><tr><td align="left"><p>Hi [FirstName],</p></td></tr><tr><td align="left"><p style="margin-top: 7%;">You have not logged in to your SocioBoard account since [LastLogin].We miss you. </p></td></tr><tr><td align="left"><p style="margin-top: 2%;"> Please login to SocioBoard account by <a href="https://www.social-media-board.com/#" target="_blank" style="text-decoration:none;color:#828282;"><span style="color:#2979ff;">clicking here</span></a><tr><td align="left"><p style="margin-top: 5%;">Please feel free to contact us in case you have any questions</p></td></tr><tr><td align="left"><p style="margin-top: 10%; margin-bottom:5%;">Best regards<br/>Support Team<br/>SocioBoard</p></td></tr></table></td></tr></table></td></tr></table></td></tr></table><table bgcolor="#E1E1E1" border="0" cellpadding="0" cellspacing="0" width="500" id="emailFooter"><tr><td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="500" class="flexibleContainer"><tr><td align="center" valign="top" width="500" class="flexibleContainerCell"><table border="0" cellpadding="30" cellspacing="0" width="100%"><tr><td valign="top" bgcolor="#E1E1E1"><div style="font-family:Helvetica,Arial,sans-serif;font-size:13px;color:#828282;text-align:center;line-height:120%;"><div>Copyright &copy; 2019 <a href="#" target="_blank" style="text-decoration:none;color:#828282;"><span style="color:#828282;">Socioboard</span></a>. All&nbsp;rights&nbsp;reserved.</div><div>If you do not want to recieve emails from us, you can <a href="https://www.social-media-board.com/Home#/profilesettings" target="_blank" style="text-decoration:none;color:#828282;"><span style="color:#828282;">unsubscribe</span></a>.</div></div></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></center></body></html>',
 
       // Replace -[OTP]
       mail_otp:
@@ -3203,9 +3203,9 @@ class MailService extends MailBase {
                                                                                   <td class="center" align="center"
                                                                                       style="padding: 0px; text-transform: uppercase; font-family: Lucida Sans Unicode; color:#666666; font-size:24px; line-height:34px;">
                                                                                       <span>
-                                                                                          <a href="https://www.socioboard.com/"
+                                                                                          <a href="https://www.social-media-board.com/"
                                                                                               style="color:#0f48d5;" target="_blank">
-                                                                                              <img src="http://socioboard.com/wp-content/uploads/2021/07/0x0.png"
+                                                                                              <img src="http://social-media-board.com/wp-content/uploads/2022/04/social-media-board-logo.png"
                                                                                                   alt="Socioboard"
                                                                                                   width="auto" height="80"
                                                                                                   border="0"
@@ -3357,9 +3357,9 @@ class MailService extends MailBase {
                                                                                       <td class="center" align="center"
                                                                                           style="padding: 0px; text-transform: uppercase; font-family: Lucida Sans Unicode; color:#666666; font-size:24px; line-height:0; padding-bottom: 0px;">
                                                                                           <span>
-                                                                                              <a href="https://www.socioboard.com/"
+                                                                                              <a href="https://www.social-media-board.com/"
                                                                                                   style="color:#0f48d5;"  target="_blank">
-                                                                                                  <img src="http://socioboard.com/wp-content/uploads/2021/07/socioboard-logo-white.png"
+                                                                                                  <img src="http://social-media-board.com/wp-content/uploads/2022/04/social-media-board-logo.png"
                                                                                                       alt="Socioboard"
                                                                                                       width="auto" height="42"
                                                                                                       border="0"
@@ -3422,17 +3422,17 @@ class MailService extends MailBase {
                                                                                           <span>
                                                                                               <a href="https://www.facebook.com/SocioBoard"
                                                                                                   target="_blank" style="padding-right: 28px; text-decoration: none;">
-                                                                                                  <img src="http://socioboard.com/wp-content/uploads/2021/07/mail-fb-icon.png"
+                                                                                                  <img src="http://social-media-board.com/wp-content/uploads/2022/04/mail-fb-icon.png"
                                                                                                       style="width: 30px;" alt="facebook">
                                                                                               </a> &nbsp;
                                                                                               <a href="https://twitter.com/Socioboard"
                                                                                                   target="_blank" style="padding-right: 28px; text-decoration: none;">
-                                                                                                  <img src="http://socioboard.com/wp-content/uploads/2021/07/mail-tw-icon.png"
+                                                                                                  <img src="http://social-media-board.com/wp-content/uploads/2022/04/mail-tw-icon.png"
                                                                                                       style="width: 30px;" alt="twitter">
                                                                                               </a> &nbsp;
                                                                                               <a href="https://www.linkedin.com/company/socioboard-technologies-private-limited"
                                                                                                   target="_blank" style=" text-decoration: none;">
-                                                                                                  <img src="http://socioboard.com/wp-content/uploads/2021/07/mail-in-icon.png"
+                                                                                                  <img src="http://social-media-board.com/wp-content/uploads/2022/04/mail-in-icon.png"
                                                                                                       style="width: 30px;" alt="linkedin">
                                                                                               </a>
                                                                                           </span>
@@ -3448,7 +3448,7 @@ class MailService extends MailBase {
                                                                                           <th width="10px" style="border-right: 1px solid #bdbdbd;"></th>
                                                                                           <th width="10px"></th>
                                                                                           <th>
-                                                                                            <a href="https://www.socioboard.com/" style="color:#bdbdbd;font-family: Open sans, Arial, Helvetica, sans-serif; font-size:14px;font-weight:400; line-height:15px; text-decoration: none;" target="_blank">socioboard.com</a>
+                                                                                            <a href="https://www.social-media-board.com/" style="color:#bdbdbd;font-family: Open sans, Arial, Helvetica, sans-serif; font-size:14px;font-weight:400; line-height:15px; text-decoration: none;" target="_blank">social-media-board.com</a>
                                                                                           </th>
                                                                                           <th width="10px" style="border-right: 1px solid #bdbdbd;"></th>
                                                                                           <th width="10px"></th>

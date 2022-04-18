@@ -118,13 +118,13 @@ const doc = {
         user_name: 'socio123',
         first_name: 'socio',
         last_name: 'board',
-        email: 'socioboard@socioboard.com',
+        email: 'socioboard@social-media-board.com',
         social_id: 'sb124234123',
         profile_pic_url:
-          'https://www.socioboard.com/contents/socioboard/images/Socioboard.png',
+          'https://www.social-media-board.com/contents/socioboard/images/Socioboard.png',
         cover_pic_url:
-          'https://www.socioboard.com/contents/socioboard/images/Socioboard.png',
-        profile_url: 'https://www.socioboard.com/user/socioboard/socio123',
+          'https://www.social-media-board.com/contents/socioboard/images/Socioboard.png',
+        profile_url: 'https://www.social-media-board.com/user/socioboard/socio123',
         access_token:
           'Sifnjfdhfefdwndijvbufkjcvdbvivnriurhgueg8rgijvbciudwff3495ry748truiefeiuf4treugfeuyfr46rfufhdbfuy',
         refresh_token:
@@ -149,7 +149,7 @@ const doc = {
       TeamInfo: {
         name: 'socioboard',
         description: 'Short note about the team activity.',
-        logoUrl: 'https://i.imgur.com/eRkLsuQ.png',
+        logoUrl: 'https://i.imgur.com/p0px2iu.png',
       },
     },
     searchSocialAccount: {

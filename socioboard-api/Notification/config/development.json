@@ -6,7 +6,7 @@
   },
   "swagger_host_url": "localhost:3004",
   "user_socioboard": {
-    "host_url": "https://local.socioboard.com/"
+    "host_url": "https://local.social-media-board.com/"
   },
   "mongo": {
     "username": "<< username >>",

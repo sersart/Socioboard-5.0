@@ -23,7 +23,7 @@
                         <div class="card-title">
                             @if($data['code']===200)
                                 <div class="symbol symbol-50">
-                                    @if($data['data']['teamLogo'] === 'www.socioboard.com' || $data['data']['teamLogo'] === "www.NA.com" )
+                                    @if($data['data']['teamLogo'] === 'www.social-media-board.com' || $data['data']['teamLogo'] === "www.NA.com" )
                                     <img src="/media/logos/sb-icon.svg" alt="SB"/>
                                         @else
                                         <img src="{{$data['data']['teamLogo']}}" alt="SB"/>
@@ -34,7 +34,7 @@
                                 </h3>
                             @else
                                 <div class="symbol symbol-50">
-                                    <img src="https://i.imgur.com/eRkLsuQ.png" alt="SB"/>
+                                    <img src="https://i.imgur.com/p0px2iu.png" alt="SB"/>
                                 </div>
                                 <h3 class="card-label">
                                 </h3>

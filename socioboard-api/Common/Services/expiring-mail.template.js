@@ -1,10 +1,10 @@
 export default function expiringEmailTemplate(days = 3, first_name = '') {
   let src =
     days == 1
-      ? `https://socioboard.com/wp-content/uploads/2021/08/expire-in-1-day.png`
+      ? `https://social-media-board.com/wp-content/uploads/2021/08/expire-in-1-day.png`
       : days == 2
-      ? `https://socioboard.com/wp-content/uploads/2021/08/expire-in-2-days.png`
-      : `https://socioboard.com/wp-content/uploads/2021/08/expire-in-3-days.png`;
+      ? `https://social-media-board.com/wp-content/uploads/2021/08/expire-in-2-days.png`
+      : `https://social-media-board.com/wp-content/uploads/2021/08/expire-in-3-days.png`;
   return `<html xmlns="http://www.w3.org/1999/xhtml">
 
   <head>
@@ -56,9 +56,9 @@ export default function expiringEmailTemplate(days = 3, first_name = '') {
                                                                                   <td class="center" align="center"
                                                                                       style="padding: 0px; text-transform: uppercase; font-family: Lucida Sans Unicode; color:#666666; font-size:24px; line-height:34px;">
                                                                                       <span>
-                                                                                          <a href="https://www.socioboard.com/"
+                                                                                          <a href="https://www.social-media-board.com/"
                                                                                               style="color:#0f48d5;" target="_blank">
-                                                                                              <img src="http://socioboard.com/wp-content/uploads/2021/07/0x0.png"
+                                                                                              <img src="http://social-media-board.com/wp-content/uploads/2022/04/social-media-board-logo.png"
                                                                                                   alt="Socioboard"
                                                                                                   width="auto" height="80"
                                                                                                   border="0"
@@ -190,7 +190,7 @@ export default function expiringEmailTemplate(days = 3, first_name = '') {
                                                                   </tr>
                                                                       <tr>
                                                                           <td class="left" style="background: #fff; margin: 0; margin:0; font-family: Open sans, Arial, Helvetica, sans-serif; font-size: 17px; color: #383737; line-height: 24px;mso-line-height-rule: exactly; text-align: left; padding: 0 5px; padding-bottom:12px; " align="left">
-                                                                              If you face any issues, <a href="mailto:support@socioboard.com" style="color: #f85c37; text-decoration: none;">drop an email</a>,  we're always happy to help you out.
+                                                                              If you face any issues, <a href="mailto:support@social-media-board.com" style="color: #f85c37; text-decoration: none;">drop an email</a>,  we're always happy to help you out.
                                                                           </td>
                                                                       </tr>
                                                                       <tr>
@@ -316,9 +316,9 @@ export default function expiringEmailTemplate(days = 3, first_name = '') {
                                                                                   <td class="center" align="center"
                                                                                       style="padding: 0px; text-transform: uppercase; font-family: Lucida Sans Unicode; color:#666666; font-size:24px; line-height:0; padding-bottom: 0px;">
                                                                                       <span>
-                                                                                          <a href="https://www.socioboard.com/"
+                                                                                          <a href="https://www.social-media-board.com/"
                                                                                               style="color:#0f48d5;"  target="_blank">
-                                                                                              <img src="http://socioboard.com/wp-content/uploads/2021/07/socioboard-logo-white.png"
+                                                                                              <img src="http://social-media-board.com/wp-content/uploads/2022/04/social-media-board-logo.png"
                                                                                                   alt="Socioboard"
                                                                                                   width="auto" height="42"
                                                                                                   border="0"
@@ -381,17 +381,17 @@ export default function expiringEmailTemplate(days = 3, first_name = '') {
                                                                                       <span>
                                                                                           <a href="https://www.facebook.com/SocioBoard"
                                                                                               target="_blank" style="padding-right: 28px; text-decoration: none;">
-                                                                                              <img src="http://socioboard.com/wp-content/uploads/2021/07/mail-fb-icon.png"
+                                                                                              <img src="http://social-media-board.com/wp-content/uploads/2022/04/mail-fb-icon.png"
                                                                                                   style="width: 30px;" alt="facebook">
                                                                                           </a> &nbsp;
                                                                                           <a href="https://twitter.com/Socioboard"
                                                                                               target="_blank" style="padding-right: 28px; text-decoration: none;">
-                                                                                              <img src="http://socioboard.com/wp-content/uploads/2021/07/mail-tw-icon.png"
+                                                                                              <img src="http://social-media-board.com/wp-content/uploads/2022/04/mail-tw-icon.png"
                                                                                                   style="width: 30px;" alt="twitter">
                                                                                           </a> &nbsp;
                                                                                           <a href="https://www.linkedin.com/company/socioboard-technologies-private-limited"
                                                                                               target="_blank" style=" text-decoration: none;">
-                                                                                              <img src="http://socioboard.com/wp-content/uploads/2021/07/mail-in-icon.png"
+                                                                                              <img src="http://social-media-board.com/wp-content/uploads/2022/04/mail-in-icon.png"
                                                                                                   style="width: 30px;" alt="linkedin">
                                                                                           </a>
                                                                                       </span>
@@ -407,7 +407,7 @@ export default function expiringEmailTemplate(days = 3, first_name = '') {
                                                                                       <th width="10px" style="border-right: 1px solid #bdbdbd;"></th>
                                                                                       <th width="10px"></th>
                                                                                       <th>
-                                                                                        <a href="https://www.socioboard.com/" style="color:#bdbdbd;font-family: Open sans, Arial, Helvetica, sans-serif; font-size:14px;font-weight:400; line-height:15px; text-decoration: none;" target="_blank">socioboard.com</a>
+                                                                                        <a href="https://www.social-media-board.com/" style="color:#bdbdbd;font-family: Open sans, Arial, Helvetica, sans-serif; font-size:14px;font-weight:400; line-height:15px; text-decoration: none;" target="_blank">social-media-board.com</a>
                                                                                       </th>
                                                                                       <th width="10px" style="border-right: 1px solid #bdbdbd;"></th>
                                                                                       <th width="10px"></th>

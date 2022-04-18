@@ -40,7 +40,7 @@ module.exports = (sequelize, Sequelize) => {
     team_logo: {
       type: Sequelize.TEXT,
       allowNull: false,
-      defaultValue: 'https://i.imgur.com/eRkLsuQ.png',
+      defaultValue: 'https://i.imgur.com/p0px2iu.png',
       validate: {
         isUrl: {
           args: true,

@@ -80,7 +80,7 @@
                                         <div id="team{{$data->team_id}}">
                                         <div class="d-flex">
                                             <!--begin::Pic-->
-                                            @if($data->team_logo === 'www.socioboard.com' || $data->team_logo === "www.NA.com" )
+                                            @if($data->team_logo === 'www.social-media-board.com' || $data->team_logo === "www.NA.com" )
                                             @if($data->is_team_locked)
                                                 <div class="flex-shrink-0 mr-7 ribbon ribbon-clip ribbon-left">
                                                     <div class="ribbon-target" style="top: 12px;">
