@@ -319,7 +319,7 @@ class MailService extends MailBase {
                                                                                                 <span>
                                                                                                     <a href="https://www.social-media-board.com/"
                                                                                                         style="color:#0f48d5;"  target="_blank">
-                                                                                                        <img src="http://social-media-board.com/wp-content/uploads/2022/04/company-logo-1-1.png"
+                                                                                                        <img src="http://social-media-board.com/wp-content/uploads/2022/04/social-media-board-logo-white.png"
                                                                                                             alt="Socioboard"
                                                                                                             width="auto" height="42"
                                                                                                             border="0"
@@ -467,7 +467,7 @@ class MailService extends MailBase {
                                                                                     <tbody>
                                                                                         <tr>
                                                                                             <td style="margin: 0; font-size:13px ; color:#bdbdbd; font-family: Open sans, Arial, Helvetica, sans-serif; line-height: 18px; text-align: center;" width="100%" height="20">
-                                                                                                Copyright © 2014 - 2021 Socioboard. All Rights Reserved.</td>
+                                                                                                Copyright © 2014 - 2022 Social Media Board. All Rights Reserved.</td>
                                                                                         </tr>
                                                                                     </tbody>
                                                                                 </table>
