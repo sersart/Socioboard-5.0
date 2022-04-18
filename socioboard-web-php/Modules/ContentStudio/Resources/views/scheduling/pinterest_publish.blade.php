@@ -19,7 +19,7 @@
         <!--begin::Entry-->
         <div class="d-flex flex-column-fluid">
             <!--begin::Container-->
-            <div class="container pinterest-publish">
+            <div class="col-12 container pinterest-publish">
                 <!--begin::Schedule-->
                 <div class="row">
                     <div class="col-xl-6 col-sm-12">

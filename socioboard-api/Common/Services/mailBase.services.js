@@ -2029,7 +2029,7 @@ class MailService extends MailBase {
                                                                                  </tr>
                                                                                  <tr>
                                                                                      <td class="center" style="margin: 0; padding-bottom:0px; margin:0; font-family: Open sans, Arial, Helvetica, sans-serif; font-size: 16px; color: #e9e9e9; line-height: 25px;mso-line-height-rule: exactly; text-align: center;" align="center">
-                                                                                         <a target="_blank" href="https://appv5.socioboard.com/login" style="background: #f85c37; border: 0px; padding: 12px 20px; color: #fff; font-size: 18px; letter-spacing: 1px; margin-top: 14px; cursor: pointer; font-weight: 600; border-radius: 80px; text-decoration: none;">Start Scheduling</a>
+                                                                                         <a target="_blank" href="https://app.social-media-board.com/login" style="background: #f85c37; border: 0px; padding: 12px 20px; color: #fff; font-size: 18px; letter-spacing: 1px; margin-top: 14px; cursor: pointer; font-weight: 600; border-radius: 80px; text-decoration: none;">Start Scheduling</a>
                                                                                      </td>
                                                                                  </tr>
                                                                                  <tr>

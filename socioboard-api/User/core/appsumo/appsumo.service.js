@@ -104,7 +104,7 @@ class AppSumoService {
           );
           return res.status(201).json({
             message: 'product activated',
-            redirect_url: 'https://appv5.socioboard.com/login',
+            redirect_url: 'https://app.social-media-board.com/login',
           });
         } else if (action == 'enhance_tier') {
           await appSumoDetails.create({
@@ -156,7 +156,7 @@ class AppSumoService {
         );
         return res.status(201).json({
           message: 'product activated',
-          redirect_url: `https://appv5.socioboard.com/appsumo/${activation_email}`,
+          redirect_url: `https://app.social-media-board.com/appsumo/${activation_email}`,
         });
       }
     } catch (e) {

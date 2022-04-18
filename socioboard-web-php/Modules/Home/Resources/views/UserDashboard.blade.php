@@ -37,7 +37,7 @@
 
         if (window.getCookie('SBPlan')) {
             document.cookie = 'SBPlan=; Path=/;path=/;domain=socioboard.com; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
-            window.location.href = "https://appv5.socioboard.com/amember/member";
+            window.location.href = "https://app.social-media-board.com/amember/member";
         }
         //    Check if plan is clicked or not
     </script>

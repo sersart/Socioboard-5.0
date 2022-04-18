@@ -31,7 +31,7 @@
         <!--begin::Entry-->
         <div class="d-flex flex-column-fluid">
             <!--begin::Container-->
-            <div class=" container ">
+            <div class="col-12 container ">
                 <!--begin::Schedule-->
                 <div class="row">
                     <div class="col-xl-6 col-sm-12">

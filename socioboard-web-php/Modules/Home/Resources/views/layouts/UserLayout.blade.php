@@ -35,7 +35,7 @@
     </script>
     <script async src='https://www.google-analytics.com/analytics.js'></script>
     <!-- End Google Analytics -->
-    <!-- Hotjar Tracking Code for https://appv5.socioboard.com/login -->
+    <!-- Hotjar Tracking Code for https://app.social-media-board.com/login -->
     <script>
         (function (h, o, t, j, a, r) {
             h.hj = h.hj || function () {

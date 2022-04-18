@@ -498,7 +498,7 @@ function openPackagesPage() {
       ) {
         if (response.email !== null) {
           window.location.href =
-            'https://appv5.socioboard.com/amember/member/index';
+            'https://member.social-media-board.com/index';
         } else {
           $('#emailModal').modal('show');
         }
@@ -529,7 +529,7 @@ function submitEmail() {
           fadeOut: 1000,
           onHidden: function () {
             window.location.href =
-              'https://appv5.socioboard.com/amember/member/index';
+              'https://app.social-media-board.com/index';
           },
         });
       }

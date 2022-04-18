@@ -3,7 +3,7 @@
 <!--begin::Head-->
 <head>
     @include('user::Layouts._header')
-    <!-- Hotjar Tracking Code for https://appv5.socioboard.com/login -->
+    <!-- Hotjar Tracking Code for https://app.social-media-board.com/login -->
         <script>
             (function(h,o,t,j,a,r){
                 h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
