@@ -569,8 +569,8 @@ i {
 .btn:not(:disabled):not(.disabled).active {
     background-image: linear-gradient(
             145deg,
-            var(--orange-light-color),
-            var(--orange-dark-color)
+            var(--blue-light-color),
+            var(--blue-dark-color)
     );
     color: #fff;
 }
