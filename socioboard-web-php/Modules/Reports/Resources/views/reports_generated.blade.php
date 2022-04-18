@@ -126,7 +126,7 @@
                 <!--begin::Entry-->
                 <div class="d-flex flex-column-fluid">
                     <!--begin::Container-->
-                    <div class=" container ">
+                    <div class="col-12 container ">
                         <div class="row" id="html-sec">
                         </div>
                     </div>

@@ -1106,7 +1106,7 @@ html[data-theme='light'] .mobile-preview {
 }
 .reports-header .logo {
     position: absolute;
-    left: 50%;
+    left: 5%;
     transform: translateX(-50%);
 }
 .reports-header .logo img {
