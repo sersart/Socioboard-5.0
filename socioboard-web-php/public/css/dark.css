@@ -378,9 +378,9 @@ i {
     color: var(--font-color);
 }
 
-.card-columns .card {
+/* .card-columns .card {
     box-shadow: inherit;
-}
+} */
 /* end:card */
 
 /* button */

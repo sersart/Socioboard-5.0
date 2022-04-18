@@ -91,6 +91,7 @@
                                         </div>
                                         <!--end::Contacts-->
                                     </div>
+                                    <div class="d-flex">
                                     <div id="addToCart" class="btn btn-icon text-hover-info btn-sm  ml-5 px-5"
                                          title="Add to custom Reports"><i class="fa fa-plus fa-md"
                                                                           aria-hidden="true"></i>
@@ -109,6 +110,7 @@
                                         </a>
                                     </div>
                                     <!--end::Teams Actions Dropdown-->
+                                    </div>
                                 </div>
                                 <!--end::Title-->
 
