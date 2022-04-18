@@ -270,7 +270,7 @@ class userLibs {
 
       const teamDetails = await teamInfo.create(
         {
-          team_name: 'SocioBoard',
+          team_name: 'Social Media Board',
           team_description: 'Default team',
           team_admin_id: user.user_id,
           is_default_team: true,
@@ -359,7 +359,7 @@ class userLibs {
       .replace('[FirstName]', `${data.first_name}`)
       .replace('[ActivationLink]', activationLink);
     var emailDetails = {
-      subject: 'SocioBoard Activation Mail',
+      subject: 'Social Media Board Activation Mail',
       toMail: data.email,
       htmlContent,
     };
@@ -383,7 +383,7 @@ class userLibs {
       `${userInfo.first_name}`
     );
     let emailDetails = {
-      subject: 'Welcome To SocioBoard',
+      subject: 'Welcome To Social Media Board',
       toMail: userInfo.email,
       htmlContent: htmlContent,
     };
@@ -405,7 +405,7 @@ class userLibs {
       `${userInfo.first_name}`
     );
     let emailDetails = {
-      subject: 'SocioBoard Account Deleted',
+      subject: 'Social Media Board Account Deleted',
       toMail: userInfo.email,
       htmlContent: htmlContent,
     };
@@ -427,7 +427,7 @@ class userLibs {
       .replace('[FirstName]', `${userInfo.first_name}`)
       .replace('[ActivationLink]', activationLink);
     var emailDetails = {
-      subject: 'SocioBoard Reset Password',
+      subject: 'Social Media Board Reset Password',
       toMail: userInfo.email,
       htmlContent,
     };
@@ -450,7 +450,7 @@ class userLibs {
       .replace('[FirstName]', `${userInfo.first_name}`)
       .replace('[ActivationLink]', activationLink);
     var emailDetails = {
-      subject: 'SocioBoard Direct Login',
+      subject: 'Social Media Board Direct Login',
       toMail: userInfo.email,
       htmlContent,
     };
@@ -1101,7 +1101,7 @@ class userLibs {
 
       const teamDetails = await teamInfo.create(
         {
-          team_name: 'SocioBoard',
+          team_name: 'Social Media Board',
           team_description: 'Default team',
           team_admin_id: user.user_id,
           is_default_team: true,
