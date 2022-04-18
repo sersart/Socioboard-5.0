@@ -21,7 +21,7 @@ class MailBase {
         sendGridMail.setApiKey(this.mailServiceConfig.sendgrid.apiKey);
         let message = {
           from: {
-            name: 'SocioBoard',
+            name: 'Social Media Board',
             email: this.mailServiceConfig.sendgrid.frommail,
           },
           to: data.toMail,
@@ -93,7 +93,7 @@ class MailBase {
         sendGridMail.setApiKey(this.mailServiceConfig.sendgrid.apiKey);
         let message = {
           from: {
-            name: 'SocioBoard',
+            name: 'Social Media Board',
             email: this.mailServiceConfig.sendgrid.frommail,
           },
           to: data.emails,

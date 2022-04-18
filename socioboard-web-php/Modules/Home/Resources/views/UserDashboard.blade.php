@@ -547,7 +547,7 @@
                                                                     <input type="checkbox" class="custom-control-input schedule_post" id="schedule_post" name="scheduling_type"  value="0"
                                                                            onclick="checkToShowAccountsAddDiv();">
                                                                     <span></span>
-                                                                    <div class="font-size-lg font-weight-bold ml-4">Socioboard needs permission to access and publish content to Facebook on your behalf. To grant permission, you must be an admin for your brand’s Facebook page.</div>
+                                                                    <div class="font-size-lg font-weight-bold ml-4">Social Media Board needs permission to access and publish content to Facebook on your behalf. To grant permission, you must be an admin for your brand’s Facebook page.</div>
                                                                 </label>
                                                             </div>
                                                             <div class="show_fb_divs" style="display: none;">
@@ -644,7 +644,7 @@
                                                                     <div class="font-size-lg font-weight-bold ml-4">Please make sure you are logged in with
                                                                         the proper
                                                                         account when you authorize
-                                                                        Socioboard.</div>
+                                                                        Social Media Board.</div>
                                                                 </label>
                                                             </div>
                                                             <div class="show_tw_divs" style="display: none;">
@@ -658,7 +658,7 @@
                                                                     <input class="checkboxes2" type="checkbox" name="sb-twt"
                                                                            onclick="followSBTwitter();">
                                                                     <span class="mr-2"></span>
-                                                                    Follow Socioboard on twitter for update
+                                                                    Follow Social Media Board on twitter for update
                                                                     & announcements
                                                                 </label>
                                                             </div>
@@ -671,7 +671,7 @@
                                                                     <input type="checkbox" class="custom-control-input schedule_post3" id="schedule_post3" name="scheduling_type"  value="0"
                                                                            onclick="checkToShowAccountsAddDiv3();">
                                                                     <span></span>
-                                                                    <div class="font-size-lg font-weight-bold ml-4">To allow Socioboard access to your Instagram account, you
+                                                                    <div class="font-size-lg font-weight-bold ml-4">To allow Social Media Board access to your Instagram account, you
                                                                         must first give authorization from the Instagram
                                                                         website.</div>
                                                                 </label>
@@ -851,7 +851,7 @@
                                                                         <input type="checkbox" class="custom-control-input schedule_post7" id="schedule_post7" name="scheduling_type"  value="0"
                                                                                onclick="checkToShowAccountsAddDiv7();">
                                                                         <span></span>
-                                                                        <div class="font-size-lg font-weight-bold ml-4">To allow Socioboard access to your
+                                                                        <div class="font-size-lg font-weight-bold ml-4">To allow Social Media Board access to your
                                                                             Youtube account, you
                                                                             must first give authorization from the
                                                                             Youtube

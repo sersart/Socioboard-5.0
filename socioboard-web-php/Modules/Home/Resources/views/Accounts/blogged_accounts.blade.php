@@ -419,7 +419,7 @@
                         <div class="tab-content mt-5" id="mediumAccountsTabContent">
                             <div class="medium-profile-info tab-pane fade show active" id="medium-add-accounts"
                                  role="tabpanel" aria-labelledby="medium-tab-accounts">
-                                <p>Socioboard needs permission to access and publish content to your Medium account on Socioboard's
+                                <p>Social Media Board needs permission to access and publish content to your Medium account on Social Media Board's
                                     behalf. To add a medium account please add your integration token of your medium
                                     account.</p>
                                 <div>

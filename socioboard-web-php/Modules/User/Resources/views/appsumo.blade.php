@@ -5,13 +5,13 @@
 <head>
     <base href="">
     <meta charset="utf-8"/>
-    <title>SocioBoard | AppSumo</title>
+    <title>Social Media Board | AppSumo</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
 
     <meta name="google-site-verification" content="" />
-    <meta name="description" content="Be it marketing(finding leads/customers) on Social media, or listening to customer complaints, replying to them, managing multiple social media accounts from one single dashboard, finding influencers in a particular category and reaching out to them and many more things, Socioboard products can do it." />
+    <meta name="description" content="Be it marketing(finding leads/customers) on Social media, or listening to customer complaints, replying to them, managing multiple social media accounts from one single dashboard, finding influencers in a particular category and reaching out to them and many more things, Social Media Board products can do it." />
     <meta name="keywords" content="Social Media Management Software, Social Media Management tool, Open Source Social Media Management, Social Media Management" />
-    <meta name="author" content="Socioboard Technologies">
+    <meta name="author" content="Social Media Board Technologies">
     <meta name="designer" content="Chanchal Santra">
 
     <!--begin::Fonts-->
@@ -54,7 +54,7 @@
                     <div class="login-form py-11">
                         <!--begin::Form-->
                         <div class="text-center pb-4 appsumo-signup">
-                            <img src="/media/logos/Socioboard-logo.svg" class="SB-log mr-3">
+                            <img src="/media/logos/Social Media Board-logo.svg" class="SB-log mr-3">
                             <span>with</span>
                             <img src="/media/logos/appsumo-logo-vector.png" alt="logo" class="img-responsive ml-3">
 

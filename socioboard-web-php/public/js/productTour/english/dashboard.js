@@ -1,6 +1,6 @@
 const Steps = [
     {
-        intro: 'Welcome to SocioBoard Dashboard: This is a dynamic page to view all the recent reports. useful to have enough glance at the landing itself.'
+        intro: 'Welcome to Social Media Board Dashboard: This is a dynamic page to view all the recent reports. useful to have enough glance at the landing itself.'
     },
     {
         element: document.querySelector('.reportsCart'),

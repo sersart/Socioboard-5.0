@@ -4,15 +4,15 @@
 <head>
     <base href="../">
     <meta charset="utf-8"/>
-    <title>SocioBoard - Reports generated</title>
+    <title>Social Media Board - Reports generated</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
 
     <meta name="google-site-verification" content=""/>
     <meta name="description"
-          content="Be it marketing(finding leads/customers) on Social media, or listening to customer complaints, replying to them, managing multiple social media accounts from one single dashboard, finding influencers in a particular category and reaching out to them and many more things, Socioboard products can do it."/>
+          content="Be it marketing(finding leads/customers) on Social media, or listening to customer complaints, replying to them, managing multiple social media accounts from one single dashboard, finding influencers in a particular category and reaching out to them and many more things, Social Media Board products can do it."/>
     <meta name="keywords"
           content="Social Media Management Software, Social Media Management tool, Open Source Social Media Management, Social Media Management"/>
-    <meta name="author" content="Socioboard Technologies">
+    <meta name="author" content="Social Media Board Technologies">
     <meta name="designer" content="Chanchal Santra">
     <meta name="csrf-token" content="{{ csrf_token() }}"/>
 
@@ -49,7 +49,7 @@
 <div id="Sb_header_mobile" class="header-mobile header-mobile-fixed ">
     <!--begin::Logo-->
     <a href="{{env('APP_URL')}}dashboard">
-        <img alt="SocioBoard" src="/media/logos/sb-icon.svg" style="width: 50px;" class="max-h-30px mt-5"/>
+        <img alt="Social Media Board" src="/media/logos/sb-icon.svg" style="width: 50px;" class="max-h-30px mt-5"/>
     </a>
     <!--end::Logo-->
 
@@ -83,7 +83,7 @@
                         <div class="logo">
                             <!--begin::Logo-->
                             <a href="{{env('APP_URL')}}dashboard" class="mr-2">
-                                <img alt="SocioBoard" src="/media/logos/sb-icon.svg" class=" mt-5"/>
+                                <img alt="Social Media Board" src="/media/logos/sb-icon.svg" class=" mt-5"/>
                             </a>
                             <!--end::Logo-->
 

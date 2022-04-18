@@ -814,7 +814,7 @@
                             <div class="tab-pane fade show active"
                                  id="facebook-add-accounts" role="tabpanel"
                                  aria-labelledby="facebook-tab-accounts">
-                                <p>Socioboard needs permission to access and
+                                <p>Social Media Board needs permission to access and
                                     publish content
                                     to Facebook on your behalf. To grant
                                     permission, you
@@ -894,7 +894,7 @@
                                 <p>Please make sure you are logged in with
                                     the proper
                                     account when you authorize
-                                    Socioboard.</p>
+                                    Social Media Board.</p>
                                 <div class="d-flex justify-content-center">
                                     <a href="/add-accounts/Twitter"
                                        type="button"
@@ -905,7 +905,7 @@
                                     <input type="checkbox" name="sb-twt"
                                            checked/>
                                     <span class="mr-2"></span>
-                                    Follow Socioboard on twitter for update
+                                    Follow Social Media Board on twitter for update
                                     & announcements
                                 </label>
                             </div>
@@ -913,7 +913,7 @@
                                  id="instagram-add-accounts"
                                  role="tabpanel"
                                  aria-labelledby="instagram-tab-accounts">
-                                <p>To allow Socioboard access to your Instagram account, you
+                                <p>To allow Social Media Board access to your Instagram account, you
                                     must first give authorization from the Instagram website.</p>
                                 <div class="d-flex justify-content-center">
                                     <a href="/add-accounts/Instagram" type="button"
@@ -946,7 +946,7 @@
                                  id="youtube-add-accounts"
                                  role="tabpanel"
                                  aria-labelledby="youtube-tab-accounts">
-                                <p>To allow Socioboard access to your
+                                <p>To allow Social Media Board access to your
                                     Youtube account, you
                                     must first give authorization from the
                                     Youtube

@@ -5,13 +5,13 @@
 <head>
     <base href="../">
     <meta charset="utf-8"/>
-    <title>SocioBoard - Add accounts</title>
+    <title>Social Media Board - Add accounts</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
 
     <meta name="google-site-verification" content="" />
-    <meta name="description" content="Be it marketing(finding leads/customers) on Social media, or listening to customer complaints, replying to them, managing multiple social media accounts from one single dashboard, finding influencers in a particular category and reaching out to them and many more things, Socioboard products can do it." />
+    <meta name="description" content="Be it marketing(finding leads/customers) on Social media, or listening to customer complaints, replying to them, managing multiple social media accounts from one single dashboard, finding influencers in a particular category and reaching out to them and many more things, Social Media Board products can do it." />
     <meta name="keywords" content="Social Media Management Software, Social Media Management tool, Open Source Social Media Management, Social Media Management" />
-    <meta name="author" content="Socioboard Technologies">
+    <meta name="author" content="Social Media Board Technologies">
     <meta name="designer" content="Chanchal Santra">
 
     <!--begin::Fonts-->
@@ -61,7 +61,7 @@
         <div class="logo">
             <!--begin::Logo-->
             <a href="index.html" class="mr-2">
-                <img alt="SocioBoard" src="/media/logos/sb-icon.svg" class="mt-10">
+                <img alt="Social Media Board" src="/media/logos/sb-icon.svg" class="mt-10">
             </a>
             <!--end::Logo-->
         </div>
@@ -69,9 +69,9 @@
             <h5>Instructions</h5>
         </div>
         <div class="p-10">
-            <p>Welcome to Socioboard</p>
-            <p>Socioboard takes a step towards enhancing social media based measures for seamles Interaction. we add social accounts to the Respected Account Holder.</p>
-            <p>Socioboard request you to authorize and add your account with username started below to our flatform and allow access of account details to the respective User.</p>
+            <p>Welcome to Social Media Board</p>
+            <p>Social Media Board takes a step towards enhancing social media based measures for seamles Interaction. we add social accounts to the Respected Account Holder.</p>
+            <p>Social Media Board request you to authorize and add your account with username started below to our flatform and allow access of account details to the respective User.</p>
             <p>Account username: <b>{{$userName}}</b></p>
             <div class="text-center">
                 <button class="btn font-weight-bolder font-size-h6 px-8 py-4 my-3 text-center" onclick="location.href='{{$redirectUrl}}';">Add Accounts</button>

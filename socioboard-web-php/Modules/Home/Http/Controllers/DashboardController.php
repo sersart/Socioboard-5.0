@@ -116,8 +116,8 @@ class DashboardController extends Controller
     }
 
     /**
-     * TODO we've to display all social accounts added in Socioboard in accounts page.
-     * This function is used for displaying the  all social accounts added in Socioboard in accounts page.
+     * TODO we've to display all social accounts added in Social Media Board in accounts page.
+     * This function is used for displaying the  all social accounts added in Social Media Board in accounts page.
      * @return  accounts page view blade with all data required to display from controller to view.
      */
     public function getSocialAccountsDetails()
@@ -451,7 +451,7 @@ class DashboardController extends Controller
                 if ($response['data']->code === 200) {
                     if (count($response['data']->pages) > 0) {
                         if (count($response['data']->pages) === count($response['data']->availablePages)) {
-                            return redirect('dashboard')->with("failed", "Instagram business accounts have already been added by you or other users of SocioBoard");
+                            return redirect('dashboard')->with("failed", "Instagram business accounts have already been added by you or other users of Social Media Board");
                         } else {
                             Session::put('instagramPages', $response['data']->pages);
                             return redirect('dashboard');

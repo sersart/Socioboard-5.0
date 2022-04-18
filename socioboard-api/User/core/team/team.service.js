@@ -459,7 +459,7 @@ class TeamController {
           .replace('[teamname]', `${teamInfo.team_name ?? ''}`)
           .replace('[inviteduser]', `${req.body.userScopeName}`);
         let emailDetails = {
-          subject: `SocioBoard Team Invitation By ${req.body.userScopeName}`,
+          subject: `Social Media Board Team Invitation By ${req.body.userScopeName}`,
           toMail: Email,
           htmlContent,
         };
@@ -469,7 +469,7 @@ class TeamController {
         );
         return SuccessResponse(
           res,
-          `User not found in SocioBoard. Sent a invitation mail to join your team.`
+          `User not found in Social Media Board. Sent a invitation mail to join your team.`
         );
       }
 

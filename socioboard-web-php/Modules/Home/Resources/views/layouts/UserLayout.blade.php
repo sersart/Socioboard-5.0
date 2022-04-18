@@ -89,7 +89,7 @@
 <div id="Sb_header_mobile" class="header-mobile header-mobile-fixed ">
     <!--begin::Logo-->
     <a onclick="planCheck('{{env('APP_URL')}}dashboard')">
-        <img alt="SocioBoard" src="{{asset('media/logos/sb-icon.svg')}}" style="width: 50px;" class="max-h-30px mt-5"/>
+        <img alt="Social Media Board" src="{{asset('media/logos/sb-icon.svg')}}" style="width: 50px;" class="max-h-30px mt-5"/>
     </a>
     <!--end::Logo-->
 
@@ -123,7 +123,7 @@
                         <div class="d-none d-lg-flex align-items-center mr-3">
                             <!--begin::Logo-->
                             <a class="mr-2" onclick="planCheck({{env('APP_URL')}}dashboard)">
-                                <img alt="SocioBoard" src="{{asset('media/logos/sb-icon.svg')}}" style="width: 50px;"
+                                <img alt="Social Media Board" src="{{asset('media/logos/sb-icon.svg')}}" style="width: 50px;"
                                      class="max-h-35px mt-5"/>
                             </a>
                             <!--end::Logo-->
@@ -1571,7 +1571,7 @@
                                 <!--end::Dropdown Menu-->
                             </div>
                             <div class="text-center flex-grow-1">
-                                <div class="font-weight-bold font-size-h5">SocioBoard <span
+                                <div class="font-weight-bold font-size-h5">Social Media Board <span
                                             class="text-mute">Team</span></div>
                                 <div>
                                     <span class="label label-dot label-success"></span>

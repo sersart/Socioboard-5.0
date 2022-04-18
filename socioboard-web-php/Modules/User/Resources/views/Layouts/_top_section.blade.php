@@ -12,7 +12,7 @@
 <div id="Sb_header_mobile" class="header-mobile header-mobile-fixed " >
     <!--begin::Logo-->
     <a href="index.html">
-        <img alt="SocioBoard" src="/media/logos/sb-icon.svg" style="width: 50px;" class="max-h-30px mt-5"/>
+        <img alt="Social Media Board" src="/media/logos/sb-icon.svg" style="width: 50px;" class="max-h-30px mt-5"/>
     </a>
     <!--end::Logo-->
 
@@ -46,7 +46,7 @@
                         <div class="d-none d-lg-flex align-items-center mr-3">
                             <!--begin::Logo-->
                             <a href="index.html" class="mr-2">
-                                <img alt="SocioBoard" src="/media/logos/sb-icon.svg" style="width: 50px;" class="max-h-35px mt-5"/>
+                                <img alt="Social Media Board" src="/media/logos/sb-icon.svg" style="width: 50px;" class="max-h-35px mt-5"/>
                             </a>
                             <!--end::Logo-->
 
@@ -1086,7 +1086,7 @@
                         <!--end::Dropdown Menu-->
                     </div>
                     <div class="text-center flex-grow-1">
-                        <div class="font-weight-bold font-size-h5">SocioBoard <span class="text-mute">team</span></div>
+                        <div class="font-weight-bold font-size-h5">Social Media Board <span class="text-mute">team</span></div>
                         <div>
                             <span class="label label-dot label-success"></span>
                             <span class="font-weight-bold text-muted font-size-sm">Active</span>

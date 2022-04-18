@@ -108,7 +108,7 @@ const doc = {
       phoneNo: '1324575248',
       country: 'in',
       timezone: '+5:30',
-      company_name: 'SocioBoard',
+      company_name: 'Social Media Board',
       company_logo: 'default.jpg',
       // { $ref: "#/definitions/myObject" }
     },

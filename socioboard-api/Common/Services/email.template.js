@@ -4,7 +4,7 @@ export default function emailTemplate({report_type}) {
   <head>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
-      <title>Socioboard</title>
+      <title>Social Media Board</title>
       <link rel="preconnect" href="https://fonts.googleapis.com">
       <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
       <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700;800&display=swap" rel="stylesheet"> 
@@ -53,7 +53,7 @@ export default function emailTemplate({report_type}) {
                                                                                           <a href="https://www.social-media-board.com/"
                                                                                               style="color:#0f48d5;" target="_blank">
                                                                                               <img src="http://social-media-board.com/wp-content/uploads/2022/04/social-media-board-logo.png"
-                                                                                                  alt="Socioboard"
+                                                                                                  alt="Social Media Board"
                                                                                                   width="auto" height="80"
                                                                                                   border="0"
                                                                                                   style="display: inline;">
@@ -221,7 +221,7 @@ export default function emailTemplate({report_type}) {
                                                                           <td class="center" style="margin: 0; padding-bottom:12px; margin:0; font-family: Open sans, Arial, Helvetica, sans-serif; font-size: 17px; color: #383737; line-height: 25px;mso-line-height-rule: exactly;" align="center">
                                                                               <span>
                                                                                   Cheers,<br>
-                                                                                  <b>Team Socioboard</b> 
+                                                                                  <b>Team Social Media Board</b> 
                                                                               </span>
                                                                           </td>
                                                                       </tr>
@@ -292,7 +292,7 @@ export default function emailTemplate({report_type}) {
                                                                                           <a href="https://www.social-media-board.com/"
                                                                                               style="color:#0f48d5;"  target="_blank">
                                                                                               <img src="http://social-media-board.com/wp-content/uploads/2022/04/social-media-board-logo.png"
-                                                                                                  alt="Socioboard"
+                                                                                                  alt="Social Media Board"
                                                                                                   width="auto" height="42"
                                                                                                   border="0"
                                                                                                   style="display: inline;">
@@ -352,17 +352,17 @@ export default function emailTemplate({report_type}) {
                                                                                   <td class="center" align="center"
                                                                                       style="margin: 0; font-size:14px ; color:#aaaaaa; font-family: Helvetica, Arial, sans-serif; line-height: 100%; padding-bottom: 30px;">
                                                                                       <span>
-                                                                                          <a href="https://www.facebook.com/SocioBoard"
+                                                                                          <a href="https://www.facebook.com/SocialMediaBoard"
                                                                                               target="_blank" style="padding-right: 28px; text-decoration: none;">
                                                                                               <img src="http://social-media-board.com/wp-content/uploads/2022/04/mail-fb-icon.png"
                                                                                                   style="width: 30px;" alt="facebook">
                                                                                           </a> &nbsp;
-                                                                                          <a href="https://twitter.com/Socioboard"
+                                                                                          <a href="https://twitter.com/SocialMediaBoard"
                                                                                               target="_blank" style="padding-right: 28px; text-decoration: none;">
                                                                                               <img src="http://social-media-board.com/wp-content/uploads/2022/04/mail-tw-icon.png"
                                                                                                   style="width: 30px;" alt="twitter">
                                                                                           </a> &nbsp;
-                                                                                          <a href="https://www.linkedin.com/company/socioboard-technologies-private-limited"
+                                                                                          <a href="https://www.linkedin.com/company/SocialMediaBoard"
                                                                                               target="_blank" style=" text-decoration: none;">
                                                                                               <img src="http://social-media-board.com/wp-content/uploads/2022/04/mail-in-icon.png"
                                                                                                   style="width: 30px;" alt="linkedin">
@@ -444,7 +444,7 @@ export default function emailTemplate({report_type}) {
                                                                           <tbody>
                                                                               <tr>
                                                                                   <td style="margin: 0; font-size:13px ; color:#bdbdbd; font-family: Open sans, Arial, Helvetica, sans-serif; line-height: 18px; text-align: center;" width="100%" height="20">
-                                                                                      Copyright © 2014 - 2021 Socioboard. All Rights Reserved.</td>
+                                                                                      Copyright © 2014 - 2022 Social Media Board. All Rights Reserved.</td>
                                                                               </tr>
                                                                           </tbody>
                                                                       </table>
