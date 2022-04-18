@@ -305,7 +305,7 @@
                                 '<i class="ki ki-close icon-sm text-muted p-0"></i>\n' +
                                 '</button>\n' +
                                 '</div>\n' +
-                                '<img src="https://publishv5.social-media-board.com' + element.media_url + '" class="img-fluid">\n' +
+                                '<img src="https://publish.social-media-board.com' + element.media_url + '" class="img-fluid">\n' +
                                 '</div>\n' +
                                 '</div>\n' +
                                 '</div>';
