@@ -44,8 +44,8 @@
     "twitter_api": {
       "api_key": "<< APP KEY >>",
       "secret_key": "<< CLIENT SECRET >>",
-      "login_redirect_url": "https://local.social-media-board.com/twitter-callback",
-      "redirect_url": "https://local.social-media-board.com/twitter/callback",
+      "login_redirect_url": "https://app.social-media-board.com/twitter-callback",
+      "redirect_url": "https://app.social-media-board.com/twitter/callback",
       "invite_redirect_url": "",
       "app_name": "<< APP NAME >>",
       "webhook_url": "https://localhost:3002/v1/webhooks/twitter",
