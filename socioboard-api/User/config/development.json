@@ -59,7 +59,7 @@
     "redirect_url_page": "https://local.social-media-board.com/linkedIn-pages/callback",
     "invite_redirect_url": "",
     "invite_redirect_url_page": "",
-    "scope": ""
+    "scope": "r_liteprofile%20r_emailaddress%20w_member_social"
   },
   "instagram_api": {
     "client_id": "<< APP CLIENT ID >>",
