@@ -52,7 +52,7 @@ class ScheduleBase {
         logger.info(
           `Cron started for removing all previous scheduled details on date ${moment()}`
         );
-        this.remove3DaysBeforeScheduleInfo();
+        this.remove7DaysBeforeScheduleInfo();
       });
 
       logger.info('Cron setup completed...');
