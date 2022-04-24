@@ -13,14 +13,11 @@
     "profile_page_redirect_url": "https://local.socioboard.com/facebook-page/callback",
     "facebook_api": {
       "app_id": "<< APP ID >>",
-      "secret_key": "<< APP SECRET 1 >>",
+      "secret_key": "<< APP SECRET >>",
       "redirect_url": "https://local.socioboard.com/facebook-callback",
       "fbprofile_add_redirect_url": "https://local.socioboard.com/facebook/callback",
       "invite_redirect_url": "",
-      "page_scopes": "",
       "group_scopes":"",
-      "login_scopes": "",
-      "profile_scopes": "",
       "version": "5.0.0"
     },
     "google_api": {
