@@ -40,6 +40,8 @@ User/resources/views/swagger-api-view.json
 # */config/*.json
 # User/config/*.json
 
+*/config/development.json
+
 # For SQL Db config 
 
 # Common/Sequelize-cli/config/config.json
