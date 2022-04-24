@@ -40,7 +40,11 @@ User/resources/views/swagger-api-view.json
 # */config/*.json
 # User/config/*.json
 
-*/config/development.json
+Feeds/config/development.json
+Notification/config/development.json
+Publish/config/development.json
+Update/config/development.json
+User/config/development.json
 
 # For SQL Db config 
 
